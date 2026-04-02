@@ -1,4 +1,4 @@
-# AI-Powered House Price Predictor — India
+# House Price Predictor — India
 
 Real-time ML-based house price prediction across **5 major Indian cities** and **25 micro-markets**, built with scikit-learn / XGBoost and a professional Streamlit UI.
 

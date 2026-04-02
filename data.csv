@@ -1,0 +1,3001 @@
+city,area,sqft,bhk,bathrooms,price
+Hyderabad,Gachibowli,1267,3,2,10965000.0
+Chennai,Pallavaram,1696,3,2,12395000.0
+Hyderabad,Gachibowli,1198,3,3,11169000.0
+Bangalore,Electronic City,3440,5,5,37374000.0
+Delhi,Dwarka,1387,3,3,14551000.0
+Chennai,Pallavaram,465,1,1,3027000.0
+Mumbai,Borivali,525,1,1,6153000.0
+Hyderabad,Miyapur,1800,3,3,10332000.0
+Bangalore,Hebbal,699,1,1,9425000.0
+Delhi,Rohini,1160,2,2,9233000.0
+Hyderabad,Kukatpally,1620,4,4,11226000.0
+Bangalore,Whitefield,498,1,1,5450000.0
+Chennai,OMR,471,1,1,3847000.0
+Mumbai,Lower Parel,2539,4,4,70053000.0
+Delhi,Uttam Nagar,2554,4,4,17550000.0
+Chennai,Ambattur,922,2,2,6209000.0
+Chennai,Chromepet,753,2,2,5778000.0
+Bangalore,Hebbal,977,2,1,14788000.0
+Delhi,Greater Kailash,1020,2,1,16643000.0
+Delhi,Rohini,1107,3,2,10235000.0
+Bangalore,Whitefield,2771,4,3,43869000.0
+Bangalore,Electronic City,2415,4,3,28270000.0
+Chennai,Ambattur,1521,3,3,11141000.0
+Hyderabad,Miyapur,981,2,1,5507000.0
+Mumbai,Borivali,1146,3,3,15003000.0
+Delhi,Saket,1077,2,2,13782000.0
+Delhi,Rohini,1541,3,3,12749000.0
+Mumbai,Andheri East,2182,4,4,46142000.0
+Bangalore,Electronic City,1464,3,2,15099000.0
+Mumbai,Andheri East,1756,4,4,35091000.0
+Chennai,Chromepet,1111,3,3,9721000.0
+Mumbai,Worli,1018,2,2,23594000.0
+Chennai,Medavakkam,780,2,2,6656000.0
+Delhi,Uttam Nagar,1332,3,3,7045000.0
+Bangalore,Electronic City,2156,4,4,24285000.0
+Chennai,Medavakkam,700,1,1,5746000.0
+Hyderabad,Miyapur,1156,2,2,5842000.0
+Bangalore,Electronic City,1341,3,3,12592000.0
+Bangalore,Electronic City,1034,2,2,9323000.0
+Mumbai,Andheri East,1381,3,3,24507000.0
+Bangalore,Sarjapur Road,1184,2,1,13923000.0
+Bangalore,Whitefield,3539,5,5,64043000.0
+Bangalore,Hebbal,1245,3,2,20698000.0
+Chennai,Medavakkam,1683,4,4,15162000.0
+Mumbai,Worli,2750,4,4,85596000.0
+Mumbai,Chembur,1114,2,1,16161000.0
+Delhi,Dwarka,1690,3,3,16928000.0
+Bangalore,Whitefield,1183,2,1,14355000.0
+Delhi,Rohini,412,1,1,3096000.0
+Mumbai,Worli,1279,3,2,32326000.0
+Chennai,Pallavaram,1763,3,3,16722000.0
+Hyderabad,Miyapur,551,1,1,2377000.0
+Bangalore,Sarjapur Road,1226,3,3,16952000.0
+Delhi,Dwarka,456,1,1,3574000.0
+Bangalore,Sarjapur Road,932,2,2,10178000.0
+Delhi,Saket,1133,3,3,17167000.0
+Mumbai,Borivali,2324,4,4,36078000.0
+Chennai,Medavakkam,965,2,1,8367000.0
+Delhi,Greater Kailash,1083,2,2,15356000.0
+Chennai,Chromepet,543,1,1,4120000.0
+Chennai,OMR,946,2,2,9592000.0
+Chennai,OMR,734,2,2,8587000.0
+Chennai,Ambattur,1579,3,2,13103000.0
+Bangalore,Electronic City,644,1,1,4723000.0
+Bangalore,Whitefield,1703,4,3,25383000.0
+Chennai,Pallavaram,915,2,2,6727000.0
+Mumbai,Andheri East,818,2,2,13339000.0
+Mumbai,Chembur,2543,4,4,44063000.0
+Mumbai,Worli,1824,4,4,55975000.0
+Bangalore,Yelahanka,1670,3,3,17961000.0
+Mumbai,Lower Parel,809,2,2,18074000.0
+Delhi,Greater Kailash,1128,2,2,16225000.0
+Delhi,Greater Kailash,1745,3,2,31152000.0
+Hyderabad,Kondapur,2449,4,4,21500000.0
+Bangalore,Whitefield,632,1,1,7744000.0
+Chennai,OMR,2855,5,4,34452000.0
+Hyderabad,HITEC City,2317,4,4,23186000.0
+Delhi,Greater Kailash,1750,3,3,22904000.0
+Hyderabad,Kukatpally,488,1,1,2811000.0
+Delhi,Dwarka,1497,3,3,16896000.0
+Hyderabad,Gachibowli,2168,4,3,19627000.0
+Hyderabad,Gachibowli,2431,4,4,24625000.0
+Chennai,Medavakkam,1143,2,2,9582000.0
+Hyderabad,Gachibowli,1038,2,2,8133000.0
+Hyderabad,Kondapur,862,2,1,6321000.0
+Bangalore,Sarjapur Road,1641,3,2,18522000.0
+Delhi,Rohini,1475,3,3,13165000.0
+Mumbai,Borivali,945,2,1,10133000.0
+Delhi,Dwarka,3695,5,4,38949000.0
+Delhi,Saket,940,2,2,11410000.0
+Bangalore,Electronic City,1759,3,3,16116000.0
+Mumbai,Andheri East,1677,4,3,32212000.0
+Delhi,Dwarka,608,1,1,5002000.0
+Mumbai,Andheri East,3437,5,4,81098000.0
+Mumbai,Lower Parel,1345,3,3,32594000.0
+Bangalore,Hebbal,936,2,2,11858000.0
+Delhi,Rohini,930,2,1,6361000.0
+Hyderabad,HITEC City,3325,5,5,39292000.0
+Bangalore,Sarjapur Road,1534,3,3,18587000.0
+Mumbai,Lower Parel,2983,5,5,81115000.0
+Hyderabad,Kukatpally,1492,3,3,8307000.0
+Bangalore,Whitefield,1037,2,2,12687000.0
+Chennai,OMR,1012,2,2,10110000.0
+Mumbai,Worli,922,2,1,19943000.0
+Mumbai,Andheri East,1652,3,2,26685000.0
+Chennai,Ambattur,968,2,2,7179000.0
+Hyderabad,Kondapur,1002,2,2,6375000.0
+Bangalore,Electronic City,1721,4,4,17789000.0
+Bangalore,Whitefield,789,2,2,10057000.0
+Mumbai,Worli,1110,3,3,28838000.0
+Delhi,Saket,779,2,1,10637000.0
+Bangalore,Yelahanka,1178,2,2,11171000.0
+Delhi,Saket,1064,2,2,13213000.0
+Hyderabad,Miyapur,703,2,2,3672000.0
+Bangalore,Yelahanka,1499,3,3,17423000.0
+Hyderabad,Miyapur,452,1,1,2197000.0
+Bangalore,Whitefield,1048,2,2,14358000.0
+Bangalore,Electronic City,3315,5,4,34696000.0
+Mumbai,Andheri East,1184,3,2,21615000.0
+Hyderabad,Kondapur,1387,3,2,11799000.0
+Delhi,Saket,851,2,2,11562000.0
+Mumbai,Andheri East,2538,4,4,46381000.0
+Chennai,Medavakkam,1014,2,1,8601000.0
+Mumbai,Lower Parel,682,1,1,15203000.0
+Mumbai,Andheri East,2576,4,4,48923000.0
+Hyderabad,Kukatpally,894,2,2,4737000.0
+Hyderabad,Kondapur,583,1,1,3566000.0
+Chennai,Ambattur,1631,3,3,11776000.0
+Chennai,Medavakkam,913,2,2,7332000.0
+Chennai,Ambattur,2624,4,3,25549000.0
+Hyderabad,HITEC City,805,2,1,7302000.0
+Mumbai,Borivali,2701,4,4,33750000.0
+Hyderabad,Gachibowli,872,2,2,6418000.0
+Mumbai,Lower Parel,857,2,2,19504000.0
+Chennai,Ambattur,2503,4,4,21086000.0
+Bangalore,Hebbal,1521,3,3,21726000.0
+Bangalore,Sarjapur Road,993,2,1,11266000.0
+Mumbai,Lower Parel,1017,2,2,25950000.0
+Chennai,Chromepet,3630,5,4,35549000.0
+Hyderabad,HITEC City,1069,2,1,10100000.0
+Delhi,Rohini,1592,3,2,13115000.0
+Mumbai,Andheri East,2021,4,4,36760000.0
+Hyderabad,HITEC City,900,2,2,8506000.0
+Delhi,Uttam Nagar,1429,3,3,7668000.0
+Hyderabad,Kukatpally,1118,3,3,7326000.0
+Bangalore,Hebbal,2455,4,4,39898000.0
+Hyderabad,Kukatpally,1530,3,3,10062000.0
+Hyderabad,HITEC City,1967,4,3,20675000.0
+Hyderabad,Kondapur,1163,2,2,9686000.0
+Bangalore,Electronic City,852,2,2,7810000.0
+Hyderabad,Gachibowli,1676,3,2,13409000.0
+Delhi,Saket,2460,4,4,33139000.0
+Chennai,Chromepet,840,2,1,5503000.0
+Hyderabad,Kukatpally,1106,3,3,7084000.0
+Bangalore,Electronic City,1066,2,2,9761000.0
+Hyderabad,Gachibowli,767,2,2,5551000.0
+Bangalore,Sarjapur Road,1060,2,1,13356000.0
+Delhi,Greater Kailash,1629,3,3,26814000.0
+Mumbai,Worli,1388,3,2,30006000.0
+Delhi,Greater Kailash,1630,3,2,31952000.0
+Mumbai,Lower Parel,804,2,2,17747000.0
+Hyderabad,Gachibowli,867,2,2,7631000.0
+Bangalore,Electronic City,1011,2,2,9018000.0
+Bangalore,Yelahanka,737,2,2,7384000.0
+Mumbai,Lower Parel,1509,3,3,35733000.0
+Mumbai,Borivali,1092,2,2,14595000.0
+Bangalore,Whitefield,1492,3,2,21357000.0
+Delhi,Rohini,510,1,1,3453000.0
+Hyderabad,HITEC City,1694,3,3,15637000.0
+Bangalore,Yelahanka,1485,3,3,15452000.0
+Delhi,Uttam Nagar,1747,3,3,10726000.0
+Delhi,Greater Kailash,1684,3,3,25941000.0
+Mumbai,Chembur,914,2,2,12874000.0
+Chennai,Medavakkam,1027,2,2,8473000.0
+Delhi,Greater Kailash,1112,2,1,15844000.0
+Mumbai,Andheri East,1172,2,2,18022000.0
+Hyderabad,Kukatpally,664,1,1,3632000.0
+Mumbai,Lower Parel,472,1,1,10146000.0
+Bangalore,Yelahanka,2413,4,4,27920000.0
+Mumbai,Lower Parel,1100,2,2,25963000.0
+Bangalore,Hebbal,1033,2,2,15588000.0
+Delhi,Greater Kailash,3411,5,5,66469000.0
+Hyderabad,Gachibowli,2525,4,4,21956000.0
+Delhi,Uttam Nagar,1762,3,3,11121000.0
+Bangalore,Sarjapur Road,1747,3,3,21443000.0
+Bangalore,Sarjapur Road,709,2,1,7618000.0
+Bangalore,Sarjapur Road,714,2,2,9818000.0
+Hyderabad,HITEC City,997,2,2,8923000.0
+Mumbai,Borivali,1382,3,2,19287000.0
+Mumbai,Lower Parel,2399,4,4,55957000.0
+Chennai,Medavakkam,1670,3,3,12729000.0
+Chennai,Chromepet,1677,3,3,12397000.0
+Hyderabad,Kondapur,1121,3,3,7900000.0
+Bangalore,Hebbal,1330,3,2,19646000.0
+Chennai,Chromepet,1005,2,1,7676000.0
+Delhi,Rohini,1747,4,4,17603000.0
+Bangalore,Hebbal,797,2,2,12962000.0
+Delhi,Rohini,733,2,1,5452000.0
+Chennai,Ambattur,1675,3,2,12717000.0
+Bangalore,Electronic City,1168,2,2,10280000.0
+Mumbai,Andheri East,1647,3,3,31215000.0
+Hyderabad,Kondapur,987,2,2,7271000.0
+Bangalore,Sarjapur Road,1154,2,2,13797000.0
+Delhi,Greater Kailash,2642,4,4,41365000.0
+Hyderabad,Kondapur,1616,3,2,13052000.0
+Mumbai,Borivali,1181,3,3,18169000.0
+Hyderabad,Miyapur,899,2,1,4844000.0
+Hyderabad,Miyapur,1981,4,4,12368000.0
+Bangalore,Yelahanka,3985,5,4,46332000.0
+Hyderabad,Kukatpally,913,2,1,4753000.0
+Hyderabad,Miyapur,1072,2,2,5697000.0
+Mumbai,Lower Parel,727,2,2,16302000.0
+Mumbai,Andheri East,1150,3,3,19948000.0
+Hyderabad,Miyapur,1198,3,3,6292000.0
+Chennai,Medavakkam,884,2,2,6271000.0
+Bangalore,Whitefield,825,2,2,11126000.0
+Bangalore,Whitefield,864,2,1,10577000.0
+Bangalore,Hebbal,630,1,1,8525000.0
+Hyderabad,Gachibowli,1387,3,3,12312000.0
+Hyderabad,Kukatpally,742,2,2,3617000.0
+Mumbai,Borivali,748,2,2,9581000.0
+Mumbai,Worli,799,2,1,20212000.0
+Chennai,Medavakkam,1361,3,3,11169000.0
+Delhi,Saket,1275,3,3,17279000.0
+Mumbai,Borivali,1680,3,3,25568000.0
+Bangalore,Hebbal,1133,2,2,18590000.0
+Bangalore,Sarjapur Road,1148,2,1,13789000.0
+Hyderabad,Kukatpally,1331,3,3,8305000.0
+Chennai,Chromepet,1420,3,2,10140000.0
+Bangalore,Whitefield,2115,4,3,32989000.0
+Mumbai,Chembur,778,2,2,10015000.0
+Hyderabad,Gachibowli,2333,4,3,22310000.0
+Delhi,Rohini,2419,4,4,21625000.0
+Bangalore,Electronic City,1754,3,2,17917000.0
+Chennai,OMR,1118,2,2,9933000.0
+Chennai,Chromepet,1436,3,2,9963000.0
+Bangalore,Yelahanka,1403,3,3,13888000.0
+Mumbai,Lower Parel,1278,3,3,33318000.0
+Delhi,Rohini,835,2,2,6575000.0
+Chennai,Ambattur,577,1,1,3380000.0
+Delhi,Dwarka,654,1,1,5260000.0
+Chennai,Medavakkam,817,2,2,6333000.0
+Hyderabad,Kondapur,978,2,2,6585000.0
+Hyderabad,Gachibowli,972,2,1,6088000.0
+Bangalore,Sarjapur Road,1121,2,1,14517000.0
+Bangalore,Hebbal,1282,3,3,18409000.0
+Chennai,Pallavaram,1563,3,3,11148000.0
+Bangalore,Yelahanka,1435,3,3,15043000.0
+Chennai,Ambattur,2475,4,4,22818000.0
+Delhi,Rohini,1657,3,3,13237000.0
+Chennai,Pallavaram,855,2,2,6165000.0
+Mumbai,Andheri East,1428,3,3,25721000.0
+Bangalore,Sarjapur Road,1239,3,3,17018000.0
+Chennai,Pallavaram,1137,2,2,8131000.0
+Delhi,Greater Kailash,2350,4,4,49150000.0
+Delhi,Uttam Nagar,550,1,1,2805000.0
+Hyderabad,Kondapur,518,1,1,3026000.0
+Delhi,Greater Kailash,730,2,2,11389000.0
+Hyderabad,Miyapur,792,2,1,4741000.0
+Hyderabad,Miyapur,1563,3,3,9896000.0
+Mumbai,Chembur,1033,2,2,15246000.0
+Mumbai,Worli,1122,3,3,27697000.0
+Bangalore,Sarjapur Road,958,2,2,11602000.0
+Chennai,Chromepet,706,2,1,6437000.0
+Bangalore,Yelahanka,1507,3,2,16720000.0
+Hyderabad,Kukatpally,1336,3,3,8578000.0
+Delhi,Rohini,1169,2,2,10237000.0
+Delhi,Greater Kailash,1611,4,3,27715000.0
+Delhi,Uttam Nagar,2374,4,4,15154000.0
+Bangalore,Hebbal,1697,3,3,30454000.0
+Hyderabad,Kondapur,500,1,1,2918000.0
+Chennai,Chromepet,1574,3,3,14435000.0
+Hyderabad,Kukatpally,1563,3,3,10018000.0
+Bangalore,Yelahanka,800,2,1,7664000.0
+Chennai,Pallavaram,705,2,2,4890000.0
+Chennai,Pallavaram,415,1,1,2743000.0
+Delhi,Saket,1426,3,3,22015000.0
+Chennai,Pallavaram,886,2,2,5976000.0
+Chennai,Ambattur,1969,4,4,17284000.0
+Bangalore,Sarjapur Road,1173,2,1,13396000.0
+Mumbai,Chembur,1661,3,3,26536000.0
+Chennai,Chromepet,1525,3,3,12782000.0
+Bangalore,Hebbal,1198,2,2,18613000.0
+Chennai,Ambattur,1319,3,3,10184000.0
+Chennai,Chromepet,747,2,2,5526000.0
+Hyderabad,Gachibowli,1507,3,3,11032000.0
+Bangalore,Whitefield,1789,4,4,26305000.0
+Delhi,Saket,739,2,2,10406000.0
+Bangalore,Hebbal,1565,3,3,24391000.0
+Bangalore,Yelahanka,1012,2,2,9535000.0
+Delhi,Greater Kailash,1182,2,2,18360000.0
+Delhi,Greater Kailash,867,2,2,13509000.0
+Mumbai,Borivali,744,2,2,7922000.0
+Mumbai,Worli,2536,5,5,77361000.0
+Hyderabad,Kondapur,913,2,1,6337000.0
+Delhi,Dwarka,1650,4,3,16254000.0
+Chennai,Medavakkam,1592,3,3,14679000.0
+Delhi,Rohini,1142,3,2,10159000.0
+Delhi,Rohini,2213,4,3,21564000.0
+Bangalore,Hebbal,928,2,2,13140000.0
+Bangalore,Hebbal,889,2,2,12768000.0
+Chennai,Pallavaram,1790,4,4,16135000.0
+Bangalore,Whitefield,1441,3,3,21130000.0
+Mumbai,Chembur,972,2,2,11991000.0
+Delhi,Greater Kailash,1941,4,4,32704000.0
+Chennai,OMR,2503,5,5,31912000.0
+Mumbai,Borivali,1548,3,3,19963000.0
+Mumbai,Chembur,1579,3,3,26100000.0
+Mumbai,Worli,979,2,1,24125000.0
+Bangalore,Electronic City,802,2,2,8577000.0
+Bangalore,Electronic City,1784,3,3,18906000.0
+Mumbai,Borivali,1540,3,3,24212000.0
+Chennai,OMR,1152,3,3,12559000.0
+Hyderabad,Kukatpally,915,2,2,5062000.0
+Mumbai,Chembur,921,2,2,12933000.0
+Hyderabad,Kukatpally,442,1,1,2284000.0
+Bangalore,Yelahanka,2075,4,3,19390000.0
+Delhi,Saket,1151,2,2,16589000.0
+Hyderabad,Gachibowli,1356,3,3,11587000.0
+Mumbai,Worli,1232,3,3,34566000.0
+Chennai,Pallavaram,1971,4,4,16243000.0
+Chennai,OMR,510,1,1,4941000.0
+Hyderabad,Miyapur,1426,3,3,8301000.0
+Hyderabad,Kondapur,1320,3,3,9812000.0
+Mumbai,Worli,669,1,1,12144000.0
+Mumbai,Worli,1782,3,3,44162000.0
+Bangalore,Sarjapur Road,1941,4,4,28560000.0
+Hyderabad,Miyapur,838,2,2,3886000.0
+Delhi,Rohini,1013,2,1,8693000.0
+Hyderabad,HITEC City,1563,3,2,15789000.0
+Chennai,Medavakkam,817,2,2,6326000.0
+Chennai,Pallavaram,1184,3,3,8844000.0
+Hyderabad,Gachibowli,2050,4,4,16181000.0
+Chennai,Pallavaram,3303,5,4,26225000.0
+Chennai,Pallavaram,1222,3,3,9177000.0
+Delhi,Uttam Nagar,1142,2,1,6870000.0
+Hyderabad,HITEC City,2924,5,5,32821000.0
+Mumbai,Borivali,1126,3,2,14747000.0
+Hyderabad,HITEC City,1749,3,2,19037000.0
+Mumbai,Borivali,602,1,1,6737000.0
+Delhi,Rohini,901,2,2,6669000.0
+Bangalore,Electronic City,707,2,2,7021000.0
+Chennai,Pallavaram,1790,3,3,13326000.0
+Delhi,Rohini,1784,3,3,14804000.0
+Bangalore,Yelahanka,1253,3,3,13300000.0
+Mumbai,Chembur,784,2,1,12474000.0
+Delhi,Greater Kailash,1723,3,2,30224000.0
+Bangalore,Yelahanka,2370,4,3,27108000.0
+Mumbai,Chembur,1757,3,3,24303000.0
+Bangalore,Hebbal,978,2,2,14969000.0
+Chennai,Chromepet,810,2,2,6344000.0
+Delhi,Dwarka,1316,3,3,14681000.0
+Bangalore,Whitefield,1687,3,2,24223000.0
+Hyderabad,Kondapur,1537,3,2,12588000.0
+Delhi,Greater Kailash,783,2,2,11459000.0
+Bangalore,Electronic City,1437,3,3,12672000.0
+Delhi,Greater Kailash,605,1,1,7004000.0
+Chennai,Ambattur,1916,4,4,16530000.0
+Delhi,Saket,872,2,2,10581000.0
+Mumbai,Borivali,657,1,1,7783000.0
+Delhi,Uttam Nagar,813,2,2,4341000.0
+Hyderabad,HITEC City,1187,2,2,10966000.0
+Hyderabad,Gachibowli,1516,3,3,13269000.0
+Chennai,OMR,2483,4,4,31854000.0
+Chennai,Medavakkam,670,1,1,4293000.0
+Chennai,Medavakkam,860,2,1,5981000.0
+Hyderabad,Gachibowli,918,2,2,7135000.0
+Mumbai,Borivali,792,2,2,9109000.0
+Hyderabad,Gachibowli,1787,3,3,12929000.0
+Hyderabad,Miyapur,870,2,1,4375000.0
+Bangalore,Hebbal,1789,3,3,27398000.0
+Bangalore,Yelahanka,921,2,1,8857000.0
+Mumbai,Lower Parel,1209,3,3,30739000.0
+Mumbai,Lower Parel,1720,3,3,43631000.0
+Bangalore,Whitefield,1119,3,2,17170000.0
+Mumbai,Lower Parel,1085,2,2,23166000.0
+Mumbai,Andheri East,1725,4,4,30436000.0
+Mumbai,Chembur,879,2,1,12576000.0
+Bangalore,Whitefield,1132,3,2,19073000.0
+Mumbai,Worli,421,1,1,9987000.0
+Chennai,OMR,1643,3,3,19864000.0
+Hyderabad,Kukatpally,782,2,2,4329000.0
+Chennai,Ambattur,1195,3,3,9487000.0
+Chennai,Medavakkam,670,1,1,4808000.0
+Bangalore,Electronic City,1144,2,2,10520000.0
+Delhi,Dwarka,1143,2,2,10257000.0
+Mumbai,Lower Parel,1780,3,3,46873000.0
+Chennai,Ambattur,2578,4,3,22113000.0
+Chennai,OMR,1059,2,2,11255000.0
+Chennai,Pallavaram,969,2,1,6479000.0
+Hyderabad,HITEC City,715,2,2,6483000.0
+Mumbai,Lower Parel,1335,3,3,34517000.0
+Chennai,Pallavaram,1923,4,3,16100000.0
+Mumbai,Chembur,1776,3,3,30237000.0
+Hyderabad,Miyapur,1559,3,3,9029000.0
+Mumbai,Worli,803,2,2,19051000.0
+Bangalore,Yelahanka,1125,3,3,13407000.0
+Bangalore,Yelahanka,1745,3,2,17215000.0
+Chennai,Ambattur,1109,3,3,9465000.0
+Delhi,Saket,974,2,2,13689000.0
+Chennai,Ambattur,1442,3,2,12524000.0
+Delhi,Saket,1295,3,2,16721000.0
+Mumbai,Worli,1106,3,2,28759000.0
+Delhi,Greater Kailash,2661,4,3,46745000.0
+Delhi,Rohini,998,2,2,8108000.0
+Mumbai,Chembur,477,1,1,7341000.0
+Bangalore,Sarjapur Road,1540,3,2,22461000.0
+Delhi,Greater Kailash,1249,3,3,17245000.0
+Chennai,Medavakkam,817,2,1,8283000.0
+Hyderabad,Kukatpally,652,1,1,3348000.0
+Mumbai,Worli,1543,3,3,35930000.0
+Bangalore,Electronic City,1792,3,3,18975000.0
+Mumbai,Worli,3374,5,4,95101000.0
+Bangalore,Sarjapur Road,2527,5,5,34391000.0
+Bangalore,Yelahanka,649,1,1,5776000.0
+Mumbai,Borivali,1457,3,3,20138000.0
+Mumbai,Borivali,2041,4,4,29175000.0
+Bangalore,Whitefield,1816,4,3,26514000.0
+Mumbai,Worli,846,2,1,21879000.0
+Bangalore,Hebbal,520,1,1,6939000.0
+Bangalore,Sarjapur Road,1523,3,2,21558000.0
+Hyderabad,Miyapur,2058,4,4,14136000.0
+Mumbai,Andheri East,489,1,1,7982000.0
+Chennai,Pallavaram,1117,2,2,9075000.0
+Chennai,Medavakkam,1075,2,2,8191000.0
+Chennai,Ambattur,925,2,2,6488000.0
+Chennai,Medavakkam,1013,2,2,9108000.0
+Bangalore,Hebbal,929,2,2,13366000.0
+Bangalore,Yelahanka,855,2,2,8303000.0
+Bangalore,Yelahanka,770,2,2,6903000.0
+Delhi,Dwarka,2499,4,4,26969000.0
+Bangalore,Hebbal,3875,5,5,72677000.0
+Delhi,Saket,3296,5,5,53036000.0
+Chennai,Pallavaram,804,2,1,6360000.0
+Mumbai,Andheri East,814,2,2,14746000.0
+Mumbai,Andheri East,2781,4,4,49188000.0
+Mumbai,Andheri East,1491,3,3,27321000.0
+Hyderabad,Kondapur,1180,3,3,8870000.0
+Hyderabad,HITEC City,1217,3,3,11053000.0
+Chennai,Ambattur,1020,2,1,8750000.0
+Bangalore,Sarjapur Road,784,2,2,10103000.0
+Mumbai,Lower Parel,1636,3,2,44372000.0
+Hyderabad,Kukatpally,2766,4,4,18897000.0
+Mumbai,Chembur,428,1,1,5538000.0
+Hyderabad,Kukatpally,1177,3,2,7750000.0
+Bangalore,Hebbal,1149,2,2,18435000.0
+Hyderabad,Kondapur,731,2,2,5545000.0
+Delhi,Saket,2230,4,3,35245000.0
+Bangalore,Whitefield,1200,2,2,16976000.0
+Delhi,Dwarka,1229,3,2,12479000.0
+Delhi,Saket,1058,2,2,13709000.0
+Chennai,Chromepet,1305,3,3,9997000.0
+Delhi,Saket,3314,5,4,61153000.0
+Mumbai,Borivali,1585,3,3,18084000.0
+Mumbai,Chembur,2157,4,4,37990000.0
+Bangalore,Sarjapur Road,1671,3,3,21506000.0
+Chennai,Pallavaram,720,2,1,5113000.0
+Bangalore,Sarjapur Road,1521,3,2,23054000.0
+Bangalore,Hebbal,865,2,2,13790000.0
+Bangalore,Sarjapur Road,2498,4,3,35512000.0
+Mumbai,Borivali,930,2,1,13767000.0
+Bangalore,Hebbal,1187,2,2,18800000.0
+Bangalore,Whitefield,1502,3,2,20550000.0
+Bangalore,Whitefield,546,1,1,6759000.0
+Mumbai,Borivali,1231,3,2,16934000.0
+Mumbai,Lower Parel,1237,3,3,29512000.0
+Chennai,OMR,767,2,2,7482000.0
+Chennai,Ambattur,2580,4,4,22706000.0
+Bangalore,Electronic City,2520,4,4,26947000.0
+Delhi,Dwarka,1323,3,3,14368000.0
+Chennai,OMR,789,2,2,8658000.0
+Hyderabad,Miyapur,1498,3,2,9343000.0
+Hyderabad,Miyapur,812,2,1,4264000.0
+Bangalore,Electronic City,1787,3,3,17523000.0
+Delhi,Greater Kailash,1099,2,2,14615000.0
+Delhi,Rohini,771,2,2,6852000.0
+Delhi,Dwarka,1115,2,2,11122000.0
+Delhi,Saket,841,2,1,10780000.0
+Mumbai,Andheri East,2292,4,4,41263000.0
+Chennai,Chromepet,1393,3,3,11016000.0
+Delhi,Dwarka,1166,2,2,9233000.0
+Bangalore,Sarjapur Road,2266,4,3,28860000.0
+Mumbai,Lower Parel,776,2,1,17514000.0
+Hyderabad,HITEC City,435,1,1,3184000.0
+Hyderabad,HITEC City,1670,3,2,14837000.0
+Delhi,Dwarka,575,1,1,4270000.0
+Hyderabad,Miyapur,2173,4,4,12384000.0
+Delhi,Dwarka,476,1,1,4101000.0
+Bangalore,Sarjapur Road,3860,5,4,61194000.0
+Delhi,Saket,1122,2,2,16461000.0
+Chennai,Medavakkam,429,1,1,3419000.0
+Hyderabad,Gachibowli,1992,4,4,16928000.0
+Delhi,Saket,981,2,2,12893000.0
+Delhi,Saket,1193,2,2,15071000.0
+Hyderabad,Gachibowli,1733,3,3,12552000.0
+Chennai,Ambattur,865,2,2,6559000.0
+Bangalore,Yelahanka,2308,4,4,26515000.0
+Hyderabad,Kukatpally,1447,3,3,8903000.0
+Bangalore,Hebbal,442,1,1,5451000.0
+Delhi,Greater Kailash,1291,3,3,21396000.0
+Mumbai,Lower Parel,1146,2,1,26158000.0
+Chennai,OMR,1861,4,3,19586000.0
+Chennai,Ambattur,788,2,1,5344000.0
+Delhi,Uttam Nagar,1754,3,3,11090000.0
+Bangalore,Sarjapur Road,530,1,1,5441000.0
+Hyderabad,Gachibowli,709,2,2,4577000.0
+Delhi,Dwarka,1111,3,2,11195000.0
+Chennai,Chromepet,714,2,2,6152000.0
+Delhi,Greater Kailash,1049,2,1,17369000.0
+Chennai,Ambattur,1989,4,4,18545000.0
+Delhi,Rohini,1773,3,3,14830000.0
+Bangalore,Sarjapur Road,1793,4,3,24801000.0
+Bangalore,Yelahanka,819,2,2,8623000.0
+Hyderabad,Kondapur,1677,3,3,12879000.0
+Chennai,Medavakkam,859,2,1,6795000.0
+Delhi,Greater Kailash,2304,4,4,41060000.0
+Chennai,Ambattur,1296,3,3,11677000.0
+Bangalore,Yelahanka,1778,3,2,16705000.0
+Mumbai,Borivali,2737,4,4,39058000.0
+Mumbai,Worli,498,1,1,12817000.0
+Bangalore,Electronic City,1479,3,3,17695000.0
+Chennai,Ambattur,1463,3,2,9796000.0
+Mumbai,Lower Parel,1429,3,3,36663000.0
+Chennai,Ambattur,803,2,2,5661000.0
+Chennai,Ambattur,1162,2,2,9276000.0
+Mumbai,Worli,1323,3,3,36853000.0
+Delhi,Saket,858,2,1,11727000.0
+Hyderabad,HITEC City,832,2,1,7276000.0
+Hyderabad,Gachibowli,872,2,2,7486000.0
+Delhi,Rohini,1207,3,3,12274000.0
+Hyderabad,Kondapur,1741,3,3,14466000.0
+Chennai,Pallavaram,1528,3,3,12449000.0
+Mumbai,Andheri East,1141,2,1,17691000.0
+Delhi,Uttam Nagar,1174,3,3,7582000.0
+Bangalore,Sarjapur Road,897,2,2,11886000.0
+Hyderabad,HITEC City,951,2,2,8634000.0
+Mumbai,Chembur,840,2,2,12197000.0
+Delhi,Uttam Nagar,2738,4,4,17175000.0
+Mumbai,Borivali,2078,4,4,28977000.0
+Mumbai,Andheri East,1617,3,3,30037000.0
+Hyderabad,Kukatpally,975,2,1,6006000.0
+Mumbai,Lower Parel,1329,3,3,29916000.0
+Bangalore,Hebbal,1688,3,3,26526000.0
+Hyderabad,Kukatpally,1351,3,2,7967000.0
+Chennai,Ambattur,767,2,2,5009000.0
+Mumbai,Andheri East,842,2,2,13961000.0
+Bangalore,Electronic City,1612,3,3,15720000.0
+Hyderabad,HITEC City,1665,3,3,16955000.0
+Delhi,Dwarka,1573,3,2,13154000.0
+Chennai,Chromepet,1023,2,1,7989000.0
+Hyderabad,Gachibowli,445,1,1,2955000.0
+Hyderabad,HITEC City,2103,4,4,22062000.0
+Bangalore,Yelahanka,1001,2,2,9362000.0
+Mumbai,Worli,2512,5,5,88452000.0
+Bangalore,Sarjapur Road,2239,4,4,28351000.0
+Delhi,Dwarka,702,2,2,6948000.0
+Chennai,OMR,1271,3,3,13120000.0
+Bangalore,Sarjapur Road,662,1,1,6690000.0
+Bangalore,Hebbal,2692,4,3,46491000.0
+Bangalore,Yelahanka,1417,3,3,16090000.0
+Delhi,Uttam Nagar,1143,3,2,6316000.0
+Hyderabad,Kukatpally,1511,3,3,9912000.0
+Hyderabad,Kondapur,1583,3,3,12219000.0
+Chennai,Ambattur,2629,5,5,23305000.0
+Bangalore,Hebbal,3894,5,5,63043000.0
+Hyderabad,Kondapur,1303,3,3,10536000.0
+Mumbai,Worli,1481,3,2,41344000.0
+Chennai,OMR,979,2,2,10618000.0
+Mumbai,Andheri East,1118,3,3,21157000.0
+Delhi,Dwarka,598,1,1,5295000.0
+Chennai,OMR,3030,5,4,45142000.0
+Bangalore,Whitefield,1230,3,3,15536000.0
+Delhi,Uttam Nagar,995,2,2,5784000.0
+Mumbai,Andheri East,1620,3,3,26051000.0
+Hyderabad,Kukatpally,2701,4,3,15862000.0
+Bangalore,Hebbal,841,2,2,14952000.0
+Chennai,OMR,1079,2,2,11743000.0
+Chennai,Medavakkam,1675,4,4,15273000.0
+Chennai,Pallavaram,3513,5,5,34020000.0
+Bangalore,Sarjapur Road,1382,3,3,20949000.0
+Bangalore,Electronic City,2554,4,4,27050000.0
+Bangalore,Sarjapur Road,1325,3,3,19746000.0
+Delhi,Greater Kailash,1788,3,2,31992000.0
+Delhi,Uttam Nagar,752,2,2,3938000.0
+Bangalore,Whitefield,616,1,1,6833000.0
+Mumbai,Worli,783,2,1,18600000.0
+Delhi,Rohini,1583,3,3,12204000.0
+Mumbai,Worli,1729,4,4,56413000.0
+Chennai,OMR,1012,2,2,11022000.0
+Hyderabad,Gachibowli,2103,4,4,17144000.0
+Delhi,Uttam Nagar,1193,2,2,6951000.0
+Delhi,Uttam Nagar,753,2,2,3944000.0
+Delhi,Rohini,1071,2,2,7466000.0
+Mumbai,Borivali,2486,5,5,33248000.0
+Mumbai,Borivali,1549,3,3,21567000.0
+Bangalore,Whitefield,1168,3,3,18256000.0
+Hyderabad,Miyapur,955,2,2,4351000.0
+Bangalore,Yelahanka,798,2,2,8435000.0
+Mumbai,Lower Parel,432,1,1,8374000.0
+Mumbai,Borivali,631,1,1,5655000.0
+Chennai,OMR,2146,4,3,26338000.0
+Chennai,OMR,1114,3,3,13541000.0
+Bangalore,Sarjapur Road,777,2,1,8128000.0
+Mumbai,Lower Parel,1163,2,2,24163000.0
+Chennai,Chromepet,1560,3,2,13474000.0
+Mumbai,Worli,1189,2,2,27554000.0
+Chennai,Medavakkam,989,2,1,8746000.0
+Mumbai,Lower Parel,2358,4,4,56831000.0
+Delhi,Uttam Nagar,1552,3,3,9533000.0
+Hyderabad,Kukatpally,1279,3,3,7874000.0
+Delhi,Uttam Nagar,756,2,2,4096000.0
+Bangalore,Hebbal,1513,3,3,24176000.0
+Delhi,Greater Kailash,1389,3,3,20822000.0
+Chennai,Pallavaram,957,2,1,6124000.0
+Mumbai,Andheri East,1615,3,3,27650000.0
+Delhi,Saket,1526,3,3,20207000.0
+Mumbai,Worli,1204,3,3,30246000.0
+Mumbai,Andheri East,1169,2,1,17885000.0
+Bangalore,Sarjapur Road,560,1,1,7000000.0
+Bangalore,Whitefield,1101,3,3,16101000.0
+Delhi,Saket,926,2,2,11279000.0
+Bangalore,Hebbal,713,2,2,9582000.0
+Mumbai,Lower Parel,1020,2,2,21902000.0
+Mumbai,Lower Parel,2205,4,4,55666000.0
+Delhi,Rohini,790,2,1,6425000.0
+Hyderabad,HITEC City,1706,3,2,16753000.0
+Chennai,OMR,2295,4,3,31181000.0
+Mumbai,Andheri East,1835,4,4,29595000.0
+Mumbai,Worli,724,2,2,18139000.0
+Bangalore,Yelahanka,647,1,1,5635000.0
+Bangalore,Yelahanka,748,2,2,7460000.0
+Delhi,Greater Kailash,1844,4,4,32002000.0
+Delhi,Rohini,1649,3,3,13759000.0
+Hyderabad,HITEC City,1371,3,2,11565000.0
+Delhi,Greater Kailash,725,2,2,11710000.0
+Bangalore,Yelahanka,597,1,1,4853000.0
+Delhi,Uttam Nagar,1152,3,2,6907000.0
+Bangalore,Yelahanka,1554,3,3,16254000.0
+Delhi,Greater Kailash,1411,3,3,22699000.0
+Chennai,Pallavaram,1121,3,3,9530000.0
+Hyderabad,Kondapur,1246,3,3,10992000.0
+Mumbai,Chembur,2033,4,4,30240000.0
+Mumbai,Worli,1254,3,3,29887000.0
+Delhi,Rohini,980,2,2,6908000.0
+Chennai,Chromepet,1651,3,3,12427000.0
+Chennai,Chromepet,825,2,1,6415000.0
+Delhi,Saket,409,1,1,5464000.0
+Bangalore,Electronic City,1111,3,3,12041000.0
+Chennai,Medavakkam,784,2,2,6765000.0
+Mumbai,Lower Parel,1620,3,3,39493000.0
+Mumbai,Worli,569,1,1,12790000.0
+Bangalore,Electronic City,1189,2,1,11144000.0
+Delhi,Uttam Nagar,706,2,2,3644000.0
+Delhi,Greater Kailash,2116,4,4,40457000.0
+Delhi,Greater Kailash,1120,2,1,18208000.0
+Hyderabad,HITEC City,1796,3,2,15900000.0
+Chennai,Chromepet,1060,2,1,8048000.0
+Delhi,Dwarka,1610,3,3,14996000.0
+Chennai,Chromepet,1144,2,1,9109000.0
+Delhi,Saket,1703,3,2,24444000.0
+Chennai,Medavakkam,1429,3,3,10731000.0
+Delhi,Greater Kailash,1587,3,2,28228000.0
+Hyderabad,HITEC City,1008,2,2,8964000.0
+Bangalore,Hebbal,810,2,2,12613000.0
+Bangalore,Hebbal,970,2,2,13449000.0
+Hyderabad,HITEC City,736,2,2,6323000.0
+Delhi,Greater Kailash,797,2,2,13080000.0
+Bangalore,Hebbal,1433,3,3,22096000.0
+Hyderabad,Gachibowli,740,2,2,5979000.0
+Hyderabad,Gachibowli,2688,4,4,24980000.0
+Hyderabad,HITEC City,851,2,2,7068000.0
+Mumbai,Chembur,743,2,2,11119000.0
+Chennai,Medavakkam,1151,3,3,10461000.0
+Delhi,Dwarka,1468,3,3,13297000.0
+Chennai,Medavakkam,1267,3,3,12828000.0
+Delhi,Dwarka,978,2,2,10379000.0
+Mumbai,Andheri East,1260,3,2,22409000.0
+Chennai,Ambattur,1750,3,3,12856000.0
+Hyderabad,Miyapur,964,2,1,5613000.0
+Mumbai,Borivali,2680,5,4,36703000.0
+Hyderabad,HITEC City,1095,2,2,8377000.0
+Hyderabad,HITEC City,741,2,2,7008000.0
+Delhi,Uttam Nagar,744,2,2,4208000.0
+Chennai,Pallavaram,1336,3,3,11711000.0
+Bangalore,Yelahanka,1463,3,3,15528000.0
+Hyderabad,Miyapur,1000,2,1,5779000.0
+Mumbai,Andheri East,1719,3,3,32965000.0
+Mumbai,Lower Parel,1044,2,2,25016000.0
+Mumbai,Lower Parel,2424,4,4,62191000.0
+Mumbai,Andheri East,787,2,1,15172000.0
+Delhi,Dwarka,871,2,2,7355000.0
+Delhi,Rohini,2391,4,4,23191000.0
+Mumbai,Borivali,3382,5,5,52747000.0
+Mumbai,Chembur,926,2,2,13229000.0
+Delhi,Saket,1792,4,4,27837000.0
+Delhi,Greater Kailash,1357,3,3,19655000.0
+Hyderabad,Kukatpally,2624,4,3,16347000.0
+Delhi,Dwarka,1403,3,2,13408000.0
+Mumbai,Worli,2299,4,3,69557000.0
+Mumbai,Andheri East,1156,3,3,20842000.0
+Bangalore,Hebbal,2419,4,4,41321000.0
+Mumbai,Lower Parel,865,2,1,20091000.0
+Bangalore,Sarjapur Road,545,1,1,5566000.0
+Hyderabad,HITEC City,1585,3,3,14279000.0
+Bangalore,Whitefield,2797,4,3,42739000.0
+Hyderabad,Kukatpally,1420,3,3,8222000.0
+Bangalore,Sarjapur Road,1493,3,2,17648000.0
+Bangalore,Electronic City,1388,3,3,14678000.0
+Bangalore,Electronic City,1002,2,2,10331000.0
+Delhi,Rohini,746,2,2,6306000.0
+Hyderabad,Kondapur,2310,4,3,17878000.0
+Mumbai,Andheri East,783,2,2,14927000.0
+Chennai,Medavakkam,747,2,2,6588000.0
+Mumbai,Andheri East,464,1,1,7081000.0
+Delhi,Dwarka,474,1,1,3716000.0
+Mumbai,Borivali,769,2,2,9345000.0
+Hyderabad,HITEC City,1559,3,3,13696000.0
+Chennai,Chromepet,1551,3,3,13236000.0
+Chennai,Medavakkam,2504,4,4,22804000.0
+Chennai,Pallavaram,1757,3,3,14865000.0
+Mumbai,Andheri East,443,1,1,5737000.0
+Mumbai,Lower Parel,885,2,2,19580000.0
+Delhi,Dwarka,2683,4,3,27276000.0
+Bangalore,Hebbal,1387,3,2,22195000.0
+Mumbai,Andheri East,1181,2,2,22218000.0
+Mumbai,Borivali,3027,5,5,50454000.0
+Bangalore,Sarjapur Road,915,2,1,10796000.0
+Hyderabad,Gachibowli,1520,3,3,12806000.0
+Hyderabad,HITEC City,589,1,1,4156000.0
+Chennai,OMR,473,1,1,5092000.0
+Delhi,Uttam Nagar,666,1,1,3962000.0
+Hyderabad,Gachibowli,1315,3,3,9787000.0
+Bangalore,Sarjapur Road,1640,4,4,26482000.0
+Delhi,Saket,2325,4,4,29149000.0
+Chennai,Pallavaram,1632,4,4,14193000.0
+Delhi,Uttam Nagar,591,1,1,2870000.0
+Bangalore,Whitefield,1378,3,2,21696000.0
+Bangalore,Electronic City,935,2,2,8707000.0
+Chennai,Chromepet,1094,2,1,8087000.0
+Delhi,Greater Kailash,1226,3,3,17892000.0
+Chennai,Medavakkam,1227,3,2,11140000.0
+Mumbai,Borivali,1124,3,3,15594000.0
+Bangalore,Electronic City,1463,3,2,16284000.0
+Mumbai,Chembur,1178,2,2,13198000.0
+Delhi,Uttam Nagar,1107,3,3,6639000.0
+Bangalore,Sarjapur Road,1616,3,3,20399000.0
+Mumbai,Lower Parel,2674,4,3,77105000.0
+Delhi,Uttam Nagar,1773,3,3,10181000.0
+Mumbai,Lower Parel,1021,2,2,23231000.0
+Bangalore,Sarjapur Road,1695,3,3,22557000.0
+Delhi,Saket,1627,3,3,23096000.0
+Bangalore,Electronic City,1611,3,2,17982000.0
+Chennai,Pallavaram,878,2,1,6431000.0
+Mumbai,Chembur,1136,3,2,17386000.0
+Chennai,Medavakkam,1266,3,3,11006000.0
+Delhi,Greater Kailash,607,1,1,8545000.0
+Chennai,OMR,2706,4,4,34321000.0
+Bangalore,Yelahanka,2635,4,3,26520000.0
+Hyderabad,Miyapur,956,2,2,5154000.0
+Chennai,Ambattur,1212,3,3,8681000.0
+Mumbai,Chembur,1141,2,2,15976000.0
+Delhi,Saket,647,1,1,6970000.0
+Bangalore,Yelahanka,1100,3,3,12235000.0
+Hyderabad,Kondapur,1640,3,3,11692000.0
+Delhi,Greater Kailash,980,2,2,13703000.0
+Chennai,Medavakkam,1131,3,3,10331000.0
+Delhi,Dwarka,1564,3,3,13904000.0
+Delhi,Rohini,1720,3,3,14261000.0
+Delhi,Rohini,1876,4,3,17663000.0
+Hyderabad,HITEC City,2571,5,4,34045000.0
+Hyderabad,Gachibowli,895,2,2,7289000.0
+Chennai,Medavakkam,537,1,1,3913000.0
+Hyderabad,Miyapur,779,2,2,4743000.0
+Mumbai,Chembur,721,2,2,10983000.0
+Bangalore,Electronic City,1464,3,3,14928000.0
+Chennai,Medavakkam,932,2,1,8374000.0
+Chennai,Pallavaram,1791,3,3,14211000.0
+Delhi,Greater Kailash,1173,3,3,18786000.0
+Chennai,OMR,1119,3,3,12945000.0
+Bangalore,Electronic City,727,2,2,6971000.0
+Bangalore,Electronic City,3996,5,5,38906000.0
+Mumbai,Lower Parel,1988,4,4,44862000.0
+Hyderabad,HITEC City,1418,3,2,13380000.0
+Chennai,OMR,1389,3,3,17186000.0
+Mumbai,Andheri East,578,1,1,9651000.0
+Chennai,Medavakkam,1718,3,3,16533000.0
+Delhi,Rohini,1719,4,4,15077000.0
+Delhi,Rohini,943,2,2,7201000.0
+Hyderabad,HITEC City,713,2,2,6762000.0
+Mumbai,Lower Parel,1619,3,3,43903000.0
+Hyderabad,Kondapur,920,2,1,7164000.0
+Chennai,Chromepet,499,1,1,3250000.0
+Bangalore,Hebbal,1135,2,2,19163000.0
+Chennai,OMR,750,2,2,7673000.0
+Mumbai,Chembur,2315,4,4,43351000.0
+Mumbai,Lower Parel,847,2,1,20468000.0
+Delhi,Dwarka,2464,4,3,25136000.0
+Mumbai,Andheri East,718,2,2,13947000.0
+Delhi,Saket,1192,3,3,15470000.0
+Delhi,Rohini,906,2,2,7519000.0
+Bangalore,Yelahanka,2461,4,4,30807000.0
+Hyderabad,Kukatpally,1220,3,2,7888000.0
+Mumbai,Worli,820,2,1,18456000.0
+Bangalore,Electronic City,1549,3,3,15996000.0
+Mumbai,Borivali,565,1,1,5130000.0
+Hyderabad,HITEC City,2671,4,4,28815000.0
+Hyderabad,Gachibowli,1372,3,3,12167000.0
+Bangalore,Electronic City,1596,3,2,17693000.0
+Chennai,Chromepet,778,2,2,5607000.0
+Bangalore,Sarjapur Road,690,1,1,8009000.0
+Chennai,OMR,2476,5,4,33262000.0
+Hyderabad,Miyapur,1184,2,2,7054000.0
+Hyderabad,Miyapur,964,2,2,5174000.0
+Mumbai,Chembur,529,1,1,6099000.0
+Chennai,Pallavaram,800,2,2,6937000.0
+Delhi,Saket,1034,2,2,13591000.0
+Hyderabad,Miyapur,992,2,2,5067000.0
+Bangalore,Whitefield,857,2,2,11445000.0
+Delhi,Dwarka,1127,2,2,9221000.0
+Chennai,Medavakkam,1384,3,3,13790000.0
+Hyderabad,Kukatpally,807,2,2,4384000.0
+Bangalore,Yelahanka,1121,2,2,10755000.0
+Delhi,Saket,1425,3,2,19293000.0
+Bangalore,Sarjapur Road,2345,4,4,32148000.0
+Delhi,Dwarka,1122,2,2,11546000.0
+Mumbai,Lower Parel,2753,4,4,67928000.0
+Hyderabad,Kukatpally,1430,3,2,8665000.0
+Mumbai,Chembur,1009,2,2,15021000.0
+Mumbai,Andheri East,788,2,1,12851000.0
+Chennai,Chromepet,1733,3,3,14486000.0
+Delhi,Uttam Nagar,1175,2,2,6446000.0
+Chennai,Chromepet,1721,3,3,16387000.0
+Chennai,Ambattur,2524,4,4,19858000.0
+Chennai,Chromepet,453,1,1,3094000.0
+Chennai,OMR,1910,4,4,20693000.0
+Bangalore,Hebbal,1365,3,3,21848000.0
+Bangalore,Whitefield,1605,3,3,21946000.0
+Hyderabad,Kukatpally,1402,3,3,8771000.0
+Delhi,Rohini,2519,4,3,23412000.0
+Delhi,Uttam Nagar,2709,4,4,17341000.0
+Delhi,Dwarka,1028,2,2,9689000.0
+Delhi,Saket,1139,3,3,14694000.0
+Delhi,Rohini,1149,2,1,10585000.0
+Hyderabad,Miyapur,853,2,2,4522000.0
+Chennai,Ambattur,883,2,2,6138000.0
+Chennai,OMR,3308,5,4,34425000.0
+Delhi,Dwarka,1519,3,3,16452000.0
+Chennai,Pallavaram,982,2,2,7953000.0
+Hyderabad,Miyapur,1466,3,3,8082000.0
+Chennai,Chromepet,788,2,2,5808000.0
+Mumbai,Chembur,1504,3,3,20686000.0
+Mumbai,Worli,1689,3,3,39259000.0
+Hyderabad,Miyapur,3860,5,5,25785000.0
+Hyderabad,Miyapur,895,2,1,5164000.0
+Mumbai,Borivali,1434,3,2,19046000.0
+Bangalore,Electronic City,2402,5,5,34342000.0
+Mumbai,Chembur,830,2,2,11666000.0
+Mumbai,Chembur,2905,5,4,55379000.0
+Hyderabad,HITEC City,1595,3,3,14909000.0
+Delhi,Uttam Nagar,877,2,2,5695000.0
+Delhi,Greater Kailash,1540,3,3,25769000.0
+Bangalore,Yelahanka,2444,4,4,28493000.0
+Chennai,Medavakkam,448,1,1,3617000.0
+Chennai,Chromepet,922,2,1,6708000.0
+Bangalore,Yelahanka,1334,3,3,13637000.0
+Delhi,Dwarka,1135,3,3,11772000.0
+Chennai,Medavakkam,1120,3,2,10540000.0
+Hyderabad,Miyapur,1707,3,3,11069000.0
+Delhi,Saket,1770,4,4,26571000.0
+Delhi,Greater Kailash,2361,4,4,44636000.0
+Bangalore,Hebbal,1522,3,2,26236000.0
+Bangalore,Yelahanka,877,2,2,9194000.0
+Bangalore,Whitefield,446,1,1,5253000.0
+Delhi,Dwarka,846,2,1,7501000.0
+Chennai,OMR,1769,3,3,20890000.0
+Bangalore,Yelahanka,448,1,1,3765000.0
+Mumbai,Chembur,3152,5,4,61199000.0
+Hyderabad,Kukatpally,1216,3,2,8178000.0
+Mumbai,Chembur,2674,4,4,43237000.0
+Chennai,OMR,1359,3,3,14769000.0
+Delhi,Uttam Nagar,1140,2,2,6036000.0
+Mumbai,Chembur,658,1,1,9211000.0
+Mumbai,Borivali,1370,3,2,17507000.0
+Mumbai,Worli,1425,3,3,36120000.0
+Chennai,OMR,2573,4,4,36989000.0
+Delhi,Rohini,809,2,2,5403000.0
+Mumbai,Chembur,913,2,2,13723000.0
+Delhi,Saket,2549,5,5,47445000.0
+Bangalore,Yelahanka,2531,5,5,33530000.0
+Hyderabad,Kondapur,628,1,1,3948000.0
+Chennai,Pallavaram,791,2,1,5185000.0
+Delhi,Rohini,804,2,1,6787000.0
+Chennai,Pallavaram,1792,3,3,12728000.0
+Bangalore,Hebbal,785,2,2,11128000.0
+Mumbai,Lower Parel,3020,5,5,76181000.0
+Delhi,Dwarka,572,1,1,4854000.0
+Chennai,Ambattur,1260,3,3,10408000.0
+Hyderabad,Kondapur,590,1,1,3752000.0
+Bangalore,Sarjapur Road,879,2,1,9008000.0
+Bangalore,Whitefield,1580,3,3,20998000.0
+Chennai,OMR,1724,4,4,20602000.0
+Bangalore,Yelahanka,771,2,1,8100000.0
+Delhi,Uttam Nagar,833,2,1,4710000.0
+Bangalore,Whitefield,932,2,2,12452000.0
+Hyderabad,Gachibowli,976,2,2,8689000.0
+Chennai,Chromepet,847,2,1,6828000.0
+Chennai,Ambattur,1065,2,2,8349000.0
+Chennai,Chromepet,1149,3,3,9732000.0
+Bangalore,Whitefield,1671,3,3,25728000.0
+Chennai,OMR,816,2,2,9650000.0
+Hyderabad,HITEC City,1115,3,3,10912000.0
+Delhi,Greater Kailash,1401,3,3,23617000.0
+Hyderabad,Kukatpally,413,1,1,2081000.0
+Chennai,Pallavaram,1039,2,1,7311000.0
+Chennai,OMR,2515,5,5,29180000.0
+Mumbai,Borivali,912,2,2,11169000.0
+Hyderabad,Miyapur,980,2,2,5289000.0
+Delhi,Rohini,1204,3,3,11308000.0
+Mumbai,Borivali,958,2,1,11555000.0
+Bangalore,Whitefield,762,2,2,10009000.0
+Delhi,Saket,1957,4,4,31571000.0
+Bangalore,Sarjapur Road,1601,3,3,19247000.0
+Delhi,Uttam Nagar,1406,3,2,9191000.0
+Bangalore,Electronic City,658,1,1,5765000.0
+Hyderabad,Miyapur,3760,5,5,23095000.0
+Mumbai,Chembur,439,1,1,6153000.0
+Mumbai,Andheri East,1526,3,3,27353000.0
+Mumbai,Worli,1143,2,2,29379000.0
+Chennai,Chromepet,2443,4,4,20555000.0
+Hyderabad,Miyapur,611,1,1,2767000.0
+Bangalore,Hebbal,1440,3,3,24285000.0
+Mumbai,Chembur,1757,3,3,24400000.0
+Hyderabad,Kondapur,813,2,2,5834000.0
+Mumbai,Worli,1533,3,2,40186000.0
+Hyderabad,HITEC City,1496,3,3,15466000.0
+Mumbai,Worli,1025,2,2,24866000.0
+Hyderabad,Gachibowli,817,2,2,6184000.0
+Chennai,Pallavaram,810,2,2,6324000.0
+Hyderabad,Gachibowli,1465,3,3,13295000.0
+Mumbai,Andheri East,1524,3,3,25231000.0
+Delhi,Rohini,870,2,2,7452000.0
+Bangalore,Electronic City,1323,3,3,12931000.0
+Mumbai,Andheri East,709,2,2,10365000.0
+Chennai,Ambattur,998,2,2,7742000.0
+Bangalore,Electronic City,2245,4,3,25514000.0
+Mumbai,Borivali,1413,3,2,20316000.0
+Bangalore,Yelahanka,632,1,1,5727000.0
+Delhi,Saket,2334,4,4,29691000.0
+Hyderabad,Kondapur,2747,4,4,22449000.0
+Mumbai,Borivali,433,1,1,4903000.0
+Mumbai,Lower Parel,1300,3,3,32824000.0
+Mumbai,Worli,824,2,2,18774000.0
+Bangalore,Electronic City,1031,2,2,8439000.0
+Delhi,Greater Kailash,1000,2,2,17733000.0
+Mumbai,Andheri East,757,2,2,11431000.0
+Bangalore,Electronic City,669,1,1,5507000.0
+Mumbai,Chembur,2420,4,4,42215000.0
+Delhi,Rohini,1401,3,3,10645000.0
+Chennai,OMR,659,1,1,5896000.0
+Delhi,Uttam Nagar,2678,4,3,14689000.0
+Chennai,Ambattur,2519,4,4,23632000.0
+Mumbai,Chembur,811,2,2,11037000.0
+Chennai,OMR,1048,2,2,11017000.0
+Delhi,Greater Kailash,917,2,2,14968000.0
+Delhi,Saket,1023,2,2,13478000.0
+Mumbai,Andheri East,1043,2,2,16771000.0
+Delhi,Dwarka,1384,3,2,12921000.0
+Chennai,OMR,989,2,2,11623000.0
+Chennai,Pallavaram,1182,2,2,8323000.0
+Chennai,Pallavaram,1172,2,2,9036000.0
+Delhi,Greater Kailash,1358,3,3,18840000.0
+Hyderabad,Kondapur,1307,3,2,9922000.0
+Bangalore,Yelahanka,1739,3,3,20360000.0
+Chennai,Chromepet,686,1,1,4274000.0
+Delhi,Saket,1487,3,2,20396000.0
+Hyderabad,HITEC City,724,2,2,6601000.0
+Hyderabad,Kukatpally,1385,3,3,9244000.0
+Hyderabad,HITEC City,2379,4,3,20694000.0
+Hyderabad,Kukatpally,703,2,2,4118000.0
+Chennai,Medavakkam,2607,4,3,24234000.0
+Chennai,Medavakkam,1347,3,3,13778000.0
+Delhi,Greater Kailash,1530,3,2,23807000.0
+Hyderabad,Miyapur,3615,5,5,25290000.0
+Chennai,Medavakkam,850,2,2,6415000.0
+Hyderabad,Kukatpally,804,2,2,4278000.0
+Delhi,Dwarka,1721,3,3,18076000.0
+Hyderabad,Kondapur,1100,2,2,8451000.0
+Chennai,OMR,855,2,2,8230000.0
+Chennai,Medavakkam,1151,2,2,9832000.0
+Hyderabad,Kondapur,1103,2,2,8597000.0
+Delhi,Uttam Nagar,1132,3,3,7235000.0
+Bangalore,Sarjapur Road,1107,3,3,15596000.0
+Hyderabad,Gachibowli,922,2,2,7379000.0
+Hyderabad,HITEC City,837,2,2,7256000.0
+Hyderabad,Miyapur,1214,3,3,6180000.0
+Chennai,OMR,1482,3,3,17202000.0
+Bangalore,Hebbal,1480,3,3,20889000.0
+Chennai,Pallavaram,852,2,1,6104000.0
+Chennai,Chromepet,1475,3,3,13130000.0
+Chennai,Pallavaram,836,2,1,6768000.0
+Delhi,Saket,727,2,2,8787000.0
+Bangalore,Yelahanka,1662,3,3,18867000.0
+Chennai,Chromepet,1810,4,4,14585000.0
+Bangalore,Electronic City,2593,4,4,29311000.0
+Bangalore,Electronic City,830,2,1,8615000.0
+Hyderabad,HITEC City,1376,3,3,14097000.0
+Hyderabad,Kukatpally,1129,2,2,6830000.0
+Chennai,Medavakkam,863,2,2,7471000.0
+Hyderabad,HITEC City,1739,3,3,16034000.0
+Bangalore,Electronic City,716,2,1,6799000.0
+Mumbai,Chembur,609,1,1,8012000.0
+Hyderabad,HITEC City,752,2,1,6263000.0
+Bangalore,Electronic City,1129,2,2,11468000.0
+Mumbai,Andheri East,2753,4,4,52064000.0
+Delhi,Rohini,835,2,2,6445000.0
+Mumbai,Worli,544,1,1,12042000.0
+Chennai,OMR,1731,3,2,19331000.0
+Mumbai,Lower Parel,984,2,1,23028000.0
+Bangalore,Sarjapur Road,865,2,1,10216000.0
+Mumbai,Worli,1789,3,3,42265000.0
+Chennai,Pallavaram,1390,3,3,11266000.0
+Mumbai,Chembur,1490,3,3,24593000.0
+Bangalore,Hebbal,1799,4,4,33707000.0
+Hyderabad,Kondapur,754,2,1,5165000.0
+Delhi,Rohini,1045,2,2,8649000.0
+Bangalore,Whitefield,1303,3,3,19614000.0
+Chennai,Ambattur,2046,4,4,15753000.0
+Chennai,Chromepet,2331,4,4,21395000.0
+Chennai,Ambattur,1013,2,1,7188000.0
+Mumbai,Borivali,1638,3,3,18086000.0
+Hyderabad,HITEC City,1267,3,3,14615000.0
+Delhi,Dwarka,926,2,2,8805000.0
+Mumbai,Borivali,3602,5,5,54266000.0
+Bangalore,Electronic City,2793,4,4,27802000.0
+Hyderabad,Gachibowli,2365,4,4,22581000.0
+Mumbai,Chembur,1120,3,2,18556000.0
+Chennai,OMR,895,2,2,9746000.0
+Hyderabad,Kondapur,840,2,2,4854000.0
+Chennai,Ambattur,912,2,2,6330000.0
+Delhi,Rohini,1683,3,3,13992000.0
+Hyderabad,HITEC City,1119,2,2,10290000.0
+Hyderabad,Miyapur,1283,3,3,7274000.0
+Delhi,Dwarka,2163,4,4,24211000.0
+Chennai,Medavakkam,1304,3,2,12378000.0
+Delhi,Dwarka,1243,3,3,10461000.0
+Chennai,Chromepet,2618,4,4,19453000.0
+Mumbai,Lower Parel,1993,4,4,46952000.0
+Bangalore,Whitefield,1171,2,2,16244000.0
+Mumbai,Lower Parel,642,1,1,14308000.0
+Mumbai,Andheri East,798,2,2,13820000.0
+Delhi,Rohini,2720,4,4,23162000.0
+Hyderabad,Kondapur,1579,3,3,12856000.0
+Mumbai,Lower Parel,1750,3,2,43886000.0
+Mumbai,Borivali,790,2,2,10745000.0
+Hyderabad,Kukatpally,2130,4,3,14620000.0
+Hyderabad,HITEC City,2542,4,4,24857000.0
+Mumbai,Borivali,951,2,2,10899000.0
+Hyderabad,Miyapur,1344,3,2,6946000.0
+Bangalore,Hebbal,993,2,2,13639000.0
+Hyderabad,Kukatpally,1744,3,3,11716000.0
+Hyderabad,Miyapur,967,2,1,5013000.0
+Mumbai,Worli,561,1,1,12958000.0
+Bangalore,Electronic City,1397,3,3,14078000.0
+Chennai,Chromepet,2093,4,4,18360000.0
+Mumbai,Andheri East,886,2,2,17157000.0
+Mumbai,Lower Parel,1287,3,2,25423000.0
+Mumbai,Lower Parel,1104,2,1,24816000.0
+Delhi,Greater Kailash,819,2,2,10835000.0
+Delhi,Saket,915,2,2,10662000.0
+Mumbai,Worli,740,2,2,20270000.0
+Bangalore,Whitefield,953,2,2,13183000.0
+Hyderabad,Miyapur,1441,3,3,10178000.0
+Chennai,OMR,1003,2,2,10664000.0
+Chennai,Chromepet,2429,4,4,19097000.0
+Bangalore,Sarjapur Road,1549,3,3,20472000.0
+Hyderabad,Gachibowli,1159,2,1,10390000.0
+Chennai,Pallavaram,1373,3,3,11823000.0
+Chennai,Ambattur,615,1,1,3699000.0
+Delhi,Dwarka,779,2,1,6916000.0
+Bangalore,Electronic City,1142,2,2,10593000.0
+Bangalore,Hebbal,1205,3,2,20516000.0
+Hyderabad,Gachibowli,761,2,2,5812000.0
+Chennai,Pallavaram,935,2,1,7666000.0
+Bangalore,Hebbal,1124,3,2,17939000.0
+Bangalore,Yelahanka,1498,3,3,15540000.0
+Mumbai,Worli,1978,4,4,51233000.0
+Delhi,Uttam Nagar,1186,2,2,6301000.0
+Delhi,Rohini,1950,4,4,16540000.0
+Mumbai,Andheri East,1586,3,3,27356000.0
+Mumbai,Andheri East,803,2,1,13020000.0
+Bangalore,Electronic City,925,2,2,10348000.0
+Bangalore,Yelahanka,1175,3,2,12951000.0
+Hyderabad,Kondapur,727,2,1,5330000.0
+Chennai,OMR,1178,3,3,14531000.0
+Hyderabad,Miyapur,1006,2,2,5563000.0
+Hyderabad,Kukatpally,2495,4,4,17231000.0
+Mumbai,Andheri East,3827,5,4,74531000.0
+Delhi,Greater Kailash,1065,2,2,17054000.0
+Hyderabad,Miyapur,1515,3,2,7974000.0
+Chennai,Chromepet,1375,3,2,11325000.0
+Bangalore,Whitefield,757,2,2,10048000.0
+Hyderabad,Kondapur,403,1,1,2672000.0
+Hyderabad,HITEC City,1052,2,1,9059000.0
+Bangalore,Electronic City,822,2,2,8378000.0
+Delhi,Uttam Nagar,1146,2,2,6419000.0
+Hyderabad,HITEC City,990,2,2,9789000.0
+Delhi,Uttam Nagar,1170,3,3,8327000.0
+Delhi,Saket,2696,4,4,39509000.0
+Chennai,Pallavaram,2647,4,4,24567000.0
+Mumbai,Worli,1669,3,2,43291000.0
+Hyderabad,Miyapur,1472,3,3,8942000.0
+Bangalore,Electronic City,2722,4,4,30299000.0
+Hyderabad,Gachibowli,1548,3,3,12993000.0
+Mumbai,Borivali,985,2,1,12018000.0
+Delhi,Dwarka,1795,4,3,20888000.0
+Bangalore,Yelahanka,1460,3,2,15789000.0
+Hyderabad,Gachibowli,1334,3,3,10860000.0
+Delhi,Uttam Nagar,872,2,2,5064000.0
+Delhi,Rohini,1521,3,2,12989000.0
+Mumbai,Borivali,658,1,1,7640000.0
+Mumbai,Lower Parel,2342,4,4,54200000.0
+Chennai,Ambattur,1640,3,3,12270000.0
+Delhi,Uttam Nagar,1199,2,1,6477000.0
+Bangalore,Electronic City,1197,2,2,11071000.0
+Chennai,OMR,1598,3,2,21317000.0
+Chennai,Chromepet,625,1,1,3594000.0
+Bangalore,Electronic City,480,1,1,4053000.0
+Hyderabad,Kukatpally,790,2,1,4091000.0
+Bangalore,Electronic City,1121,3,2,10814000.0
+Mumbai,Chembur,1622,3,3,25301000.0
+Hyderabad,Gachibowli,1408,3,3,11842000.0
+Bangalore,Whitefield,753,2,1,9726000.0
+Hyderabad,HITEC City,1402,3,2,11753000.0
+Chennai,Ambattur,1133,2,2,8365000.0
+Mumbai,Lower Parel,2304,4,4,57097000.0
+Mumbai,Lower Parel,1067,2,2,23994000.0
+Mumbai,Borivali,492,1,1,5943000.0
+Bangalore,Sarjapur Road,818,2,2,8884000.0
+Bangalore,Yelahanka,1647,3,3,16802000.0
+Delhi,Dwarka,2413,5,4,26365000.0
+Mumbai,Borivali,1374,3,3,18765000.0
+Mumbai,Chembur,1100,3,3,18249000.0
+Delhi,Rohini,1282,3,2,11802000.0
+Chennai,Chromepet,1690,3,3,13650000.0
+Chennai,Medavakkam,402,1,1,2813000.0
+Mumbai,Worli,889,2,2,19732000.0
+Bangalore,Hebbal,509,1,1,6804000.0
+Mumbai,Borivali,1628,3,3,22947000.0
+Hyderabad,Miyapur,1172,2,1,6187000.0
+Mumbai,Lower Parel,1306,3,2,34037000.0
+Hyderabad,Gachibowli,1701,3,2,14233000.0
+Hyderabad,Miyapur,802,2,2,3424000.0
+Chennai,Medavakkam,1208,3,3,10294000.0
+Bangalore,Whitefield,1636,4,4,27143000.0
+Mumbai,Lower Parel,2401,4,4,63238000.0
+Chennai,Ambattur,1454,3,3,10046000.0
+Chennai,Ambattur,819,2,2,5650000.0
+Hyderabad,Kondapur,944,2,1,6016000.0
+Bangalore,Yelahanka,1175,2,1,10294000.0
+Chennai,OMR,1665,3,2,21426000.0
+Bangalore,Sarjapur Road,1038,2,1,13038000.0
+Chennai,Pallavaram,1439,3,3,11145000.0
+Hyderabad,Kondapur,1080,2,2,7778000.0
+Chennai,Ambattur,920,2,2,7318000.0
+Mumbai,Borivali,755,2,1,8764000.0
+Hyderabad,HITEC City,3269,5,4,29775000.0
+Hyderabad,HITEC City,837,2,2,7360000.0
+Delhi,Dwarka,2897,5,4,35013000.0
+Hyderabad,Kondapur,862,2,2,6342000.0
+Chennai,OMR,1585,3,3,18471000.0
+Delhi,Saket,784,2,2,10246000.0
+Bangalore,Sarjapur Road,721,2,2,9454000.0
+Mumbai,Andheri East,1117,3,3,17404000.0
+Hyderabad,Kukatpally,1737,3,3,9526000.0
+Chennai,Medavakkam,1635,3,3,15559000.0
+Mumbai,Borivali,1068,2,2,15469000.0
+Mumbai,Worli,1729,3,3,41740000.0
+Delhi,Uttam Nagar,597,1,1,2696000.0
+Bangalore,Whitefield,1317,3,3,17806000.0
+Delhi,Uttam Nagar,1554,3,3,9312000.0
+Bangalore,Sarjapur Road,586,1,1,6676000.0
+Chennai,Ambattur,562,1,1,4077000.0
+Chennai,Ambattur,3822,5,5,38901000.0
+Delhi,Greater Kailash,1782,3,3,26614000.0
+Delhi,Saket,1545,3,2,22450000.0
+Bangalore,Hebbal,733,2,2,10734000.0
+Delhi,Saket,1755,4,3,26203000.0
+Chennai,Medavakkam,777,2,1,6328000.0
+Chennai,Ambattur,1112,3,2,10087000.0
+Delhi,Saket,1698,3,3,24792000.0
+Hyderabad,Miyapur,719,2,1,4062000.0
+Bangalore,Electronic City,2829,5,5,35155000.0
+Bangalore,Yelahanka,1371,3,3,13576000.0
+Hyderabad,Kondapur,1641,3,2,14905000.0
+Mumbai,Chembur,505,1,1,6878000.0
+Bangalore,Electronic City,1158,2,2,11390000.0
+Bangalore,Electronic City,2663,4,3,30994000.0
+Chennai,OMR,725,2,2,7048000.0
+Bangalore,Electronic City,1552,3,3,16798000.0
+Hyderabad,HITEC City,657,1,1,5060000.0
+Chennai,Medavakkam,472,1,1,3458000.0
+Delhi,Uttam Nagar,1388,3,3,8809000.0
+Mumbai,Andheri East,1751,4,4,38305000.0
+Chennai,Ambattur,1369,3,2,11260000.0
+Hyderabad,Gachibowli,2066,4,4,17563000.0
+Hyderabad,HITEC City,514,1,1,3421000.0
+Mumbai,Borivali,1081,2,2,13970000.0
+Delhi,Dwarka,1345,3,3,14998000.0
+Chennai,Chromepet,1368,3,3,11637000.0
+Bangalore,Whitefield,617,1,1,6513000.0
+Chennai,Ambattur,1570,3,3,12105000.0
+Chennai,Medavakkam,2428,4,4,23172000.0
+Delhi,Rohini,763,2,2,5894000.0
+Bangalore,Yelahanka,1124,2,2,10587000.0
+Delhi,Dwarka,570,1,1,4551000.0
+Bangalore,Hebbal,1410,3,2,23297000.0
+Delhi,Uttam Nagar,1583,3,2,9395000.0
+Hyderabad,Kukatpally,1579,3,2,9056000.0
+Delhi,Uttam Nagar,433,1,1,2007000.0
+Mumbai,Andheri East,1512,3,3,27153000.0
+Mumbai,Worli,1574,3,2,40850000.0
+Mumbai,Worli,1720,3,3,47135000.0
+Bangalore,Hebbal,751,2,1,11204000.0
+Hyderabad,Miyapur,1342,3,3,8002000.0
+Hyderabad,Kukatpally,2163,4,4,12663000.0
+Mumbai,Worli,1152,2,2,23753000.0
+Delhi,Uttam Nagar,1333,3,2,7920000.0
+Bangalore,Yelahanka,1001,2,1,9752000.0
+Bangalore,Sarjapur Road,1065,2,1,14146000.0
+Chennai,Pallavaram,410,1,1,2296000.0
+Delhi,Greater Kailash,1139,2,1,14114000.0
+Bangalore,Whitefield,1266,3,3,18185000.0
+Mumbai,Chembur,443,1,1,5404000.0
+Bangalore,Electronic City,1600,3,3,15337000.0
+Bangalore,Hebbal,1178,3,3,17303000.0
+Hyderabad,Kondapur,1349,3,2,10233000.0
+Bangalore,Whitefield,1250,3,2,16114000.0
+Hyderabad,Kondapur,846,2,2,6633000.0
+Bangalore,Sarjapur Road,3729,5,4,49837000.0
+Bangalore,Sarjapur Road,1472,3,2,20712000.0
+Hyderabad,HITEC City,1656,4,3,14648000.0
+Delhi,Uttam Nagar,788,2,2,4760000.0
+Chennai,Pallavaram,1035,2,2,8035000.0
+Delhi,Saket,1608,3,3,23098000.0
+Delhi,Rohini,780,2,1,6797000.0
+Mumbai,Worli,863,2,2,18602000.0
+Bangalore,Whitefield,1016,2,2,13359000.0
+Mumbai,Borivali,824,2,2,9940000.0
+Mumbai,Chembur,2470,4,3,40008000.0
+Delhi,Dwarka,2239,4,4,25309000.0
+Delhi,Uttam Nagar,2789,4,3,18406000.0
+Delhi,Saket,1717,4,4,22193000.0
+Mumbai,Worli,1091,2,2,25944000.0
+Delhi,Saket,1230,3,3,18404000.0
+Chennai,OMR,1558,3,2,19651000.0
+Mumbai,Borivali,881,2,2,11445000.0
+Hyderabad,Kukatpally,659,1,1,2918000.0
+Bangalore,Yelahanka,1931,4,4,25852000.0
+Mumbai,Borivali,2259,4,3,31669000.0
+Chennai,Ambattur,930,2,2,7825000.0
+Mumbai,Lower Parel,427,1,1,7189000.0
+Mumbai,Borivali,905,2,1,12260000.0
+Hyderabad,HITEC City,1105,3,3,9870000.0
+Bangalore,Sarjapur Road,448,1,1,5318000.0
+Hyderabad,Kondapur,1026,2,1,7143000.0
+Hyderabad,Miyapur,717,2,2,4163000.0
+Chennai,Medavakkam,1010,2,1,8247000.0
+Delhi,Dwarka,771,2,1,6544000.0
+Delhi,Dwarka,3248,5,4,30205000.0
+Hyderabad,HITEC City,1713,3,3,19601000.0
+Delhi,Greater Kailash,2319,4,4,42771000.0
+Delhi,Greater Kailash,593,1,1,7471000.0
+Bangalore,Electronic City,751,2,2,6649000.0
+Bangalore,Whitefield,2070,4,4,33060000.0
+Mumbai,Lower Parel,767,2,2,15498000.0
+Chennai,Pallavaram,1367,3,3,9845000.0
+Bangalore,Hebbal,1138,2,1,17608000.0
+Bangalore,Yelahanka,1006,2,2,9360000.0
+Hyderabad,Miyapur,434,1,1,2072000.0
+Hyderabad,Kondapur,866,2,1,6802000.0
+Bangalore,Yelahanka,1701,3,3,18147000.0
+Hyderabad,Kondapur,857,2,2,6480000.0
+Hyderabad,Kukatpally,960,2,2,5611000.0
+Delhi,Saket,1512,3,3,20523000.0
+Delhi,Greater Kailash,2278,4,3,40778000.0
+Hyderabad,HITEC City,1801,4,4,18039000.0
+Mumbai,Andheri East,1003,2,1,15259000.0
+Mumbai,Lower Parel,1838,4,3,43161000.0
+Bangalore,Sarjapur Road,1119,2,2,13030000.0
+Chennai,Medavakkam,768,2,2,6446000.0
+Delhi,Dwarka,1153,2,2,11424000.0
+Bangalore,Yelahanka,1353,3,3,13585000.0
+Mumbai,Borivali,1673,4,4,22793000.0
+Chennai,Ambattur,1365,3,2,11275000.0
+Bangalore,Hebbal,1142,3,2,18566000.0
+Mumbai,Lower Parel,452,1,1,8900000.0
+Delhi,Greater Kailash,3297,5,4,51136000.0
+Delhi,Greater Kailash,1748,3,3,26135000.0
+Bangalore,Hebbal,1146,2,2,14849000.0
+Bangalore,Sarjapur Road,746,2,2,9987000.0
+Chennai,Chromepet,2690,5,5,27694000.0
+Bangalore,Yelahanka,1693,3,3,19741000.0
+Bangalore,Yelahanka,1156,3,2,12145000.0
+Delhi,Saket,1749,3,2,20385000.0
+Bangalore,Hebbal,1015,2,2,12691000.0
+Chennai,Pallavaram,1382,3,2,9937000.0
+Bangalore,Sarjapur Road,1301,3,3,18927000.0
+Bangalore,Yelahanka,845,2,2,7773000.0
+Mumbai,Worli,2458,4,3,66817000.0
+Delhi,Saket,1907,4,4,30027000.0
+Chennai,Medavakkam,1702,3,2,14821000.0
+Hyderabad,Kondapur,1232,3,3,8751000.0
+Chennai,Pallavaram,2709,5,5,26039000.0
+Chennai,Pallavaram,1108,2,2,8011000.0
+Hyderabad,Kukatpally,1129,3,3,6892000.0
+Mumbai,Borivali,1772,3,3,26492000.0
+Hyderabad,Kukatpally,1133,3,3,6735000.0
+Bangalore,Whitefield,493,1,1,5733000.0
+Hyderabad,HITEC City,755,2,1,6973000.0
+Hyderabad,Kukatpally,505,1,1,2644000.0
+Bangalore,Whitefield,740,2,2,9637000.0
+Mumbai,Borivali,910,2,2,10572000.0
+Mumbai,Chembur,1611,3,3,21356000.0
+Hyderabad,Kondapur,1140,3,2,8942000.0
+Delhi,Uttam Nagar,746,2,2,3878000.0
+Hyderabad,Kondapur,1359,3,3,11183000.0
+Chennai,Chromepet,1147,2,1,8286000.0
+Delhi,Uttam Nagar,786,2,2,3777000.0
+Chennai,Ambattur,1538,3,3,12253000.0
+Chennai,Pallavaram,2648,4,4,21894000.0
+Bangalore,Sarjapur Road,2702,5,5,47463000.0
+Hyderabad,Kukatpally,1511,3,3,9875000.0
+Chennai,Ambattur,633,1,1,4790000.0
+Delhi,Saket,1131,2,1,14082000.0
+Mumbai,Worli,1051,2,1,23303000.0
+Delhi,Dwarka,2682,4,4,27935000.0
+Delhi,Greater Kailash,1044,2,2,14751000.0
+Delhi,Rohini,544,1,1,3848000.0
+Hyderabad,Miyapur,1855,4,3,11453000.0
+Mumbai,Chembur,1073,2,1,15441000.0
+Delhi,Greater Kailash,801,2,2,12805000.0
+Bangalore,Hebbal,1023,2,1,15746000.0
+Delhi,Dwarka,805,2,1,7303000.0
+Bangalore,Whitefield,516,1,1,7004000.0
+Delhi,Saket,811,2,2,10794000.0
+Chennai,Chromepet,1425,3,2,10810000.0
+Chennai,Ambattur,895,2,2,7152000.0
+Mumbai,Worli,2267,4,3,59434000.0
+Delhi,Dwarka,1367,3,2,11977000.0
+Delhi,Greater Kailash,2792,4,3,47419000.0
+Bangalore,Hebbal,2392,4,3,36871000.0
+Chennai,Ambattur,861,2,2,5833000.0
+Mumbai,Lower Parel,1621,3,3,38011000.0
+Delhi,Greater Kailash,3393,5,5,60220000.0
+Chennai,OMR,1021,2,1,11448000.0
+Hyderabad,Gachibowli,436,1,1,3131000.0
+Chennai,OMR,442,1,1,4604000.0
+Delhi,Greater Kailash,3286,5,5,61789000.0
+Mumbai,Andheri East,2616,4,4,45872000.0
+Bangalore,Electronic City,1229,3,2,11912000.0
+Bangalore,Sarjapur Road,909,2,2,11063000.0
+Hyderabad,Kondapur,904,2,1,6234000.0
+Hyderabad,Kukatpally,1100,2,2,6414000.0
+Delhi,Saket,2195,4,3,31909000.0
+Mumbai,Chembur,1748,3,2,27142000.0
+Chennai,Ambattur,2696,4,4,22138000.0
+Hyderabad,Gachibowli,853,2,2,6371000.0
+Chennai,Ambattur,526,1,1,3272000.0
+Hyderabad,Gachibowli,846,2,2,6782000.0
+Mumbai,Worli,1145,3,2,29202000.0
+Bangalore,Sarjapur Road,878,2,2,11841000.0
+Mumbai,Lower Parel,538,1,1,10542000.0
+Hyderabad,Miyapur,856,2,2,4688000.0
+Mumbai,Andheri East,891,2,2,15482000.0
+Bangalore,Yelahanka,853,2,2,8863000.0
+Chennai,Ambattur,1044,2,2,8058000.0
+Delhi,Rohini,677,1,1,4805000.0
+Bangalore,Electronic City,708,2,2,7252000.0
+Chennai,Chromepet,1301,3,2,10522000.0
+Hyderabad,Kondapur,1490,3,3,11945000.0
+Hyderabad,Gachibowli,1426,3,3,10425000.0
+Hyderabad,Gachibowli,674,1,1,4842000.0
+Bangalore,Yelahanka,1773,4,3,20575000.0
+Chennai,Chromepet,1028,2,2,6982000.0
+Delhi,Uttam Nagar,910,2,2,5714000.0
+Delhi,Saket,958,2,2,12670000.0
+Bangalore,Yelahanka,807,2,1,7572000.0
+Hyderabad,HITEC City,2114,4,4,19569000.0
+Delhi,Saket,1115,2,2,16335000.0
+Mumbai,Borivali,1698,3,2,23901000.0
+Delhi,Saket,2047,4,4,28956000.0
+Chennai,OMR,1873,4,3,22404000.0
+Delhi,Rohini,1021,2,2,7319000.0
+Chennai,Ambattur,3763,5,4,37731000.0
+Bangalore,Hebbal,728,2,2,9841000.0
+Mumbai,Borivali,1189,3,3,16157000.0
+Hyderabad,Kukatpally,1157,3,3,6874000.0
+Mumbai,Worli,1353,3,3,34156000.0
+Hyderabad,Kukatpally,533,1,1,2727000.0
+Delhi,Uttam Nagar,789,2,1,3577000.0
+Delhi,Greater Kailash,2273,4,4,40824000.0
+Mumbai,Lower Parel,700,2,1,14451000.0
+Delhi,Greater Kailash,1567,3,3,23846000.0
+Mumbai,Andheri East,883,2,2,15408000.0
+Bangalore,Electronic City,1894,4,4,19961000.0
+Bangalore,Yelahanka,1252,3,2,13542000.0
+Mumbai,Andheri East,1662,3,3,29503000.0
+Mumbai,Borivali,2452,4,3,30025000.0
+Hyderabad,HITEC City,1787,3,3,15906000.0
+Mumbai,Borivali,1531,3,2,19936000.0
+Hyderabad,Kukatpally,1019,2,2,5678000.0
+Bangalore,Hebbal,1337,3,3,22846000.0
+Bangalore,Yelahanka,2212,4,4,23701000.0
+Chennai,Chromepet,1627,3,3,14769000.0
+Hyderabad,Gachibowli,1436,3,3,9740000.0
+Delhi,Dwarka,541,1,1,4246000.0
+Mumbai,Borivali,631,1,1,6878000.0
+Bangalore,Sarjapur Road,504,1,1,5441000.0
+Hyderabad,Gachibowli,1530,3,3,11636000.0
+Hyderabad,Gachibowli,1079,2,2,8447000.0
+Bangalore,Hebbal,1733,4,4,28908000.0
+Delhi,Greater Kailash,1056,2,1,16086000.0
+Hyderabad,Kondapur,1042,2,2,7686000.0
+Delhi,Saket,712,2,1,8463000.0
+Mumbai,Borivali,834,2,2,8809000.0
+Bangalore,Yelahanka,889,2,2,8424000.0
+Hyderabad,Miyapur,1703,3,3,10136000.0
+Mumbai,Chembur,417,1,1,4771000.0
+Delhi,Greater Kailash,1709,3,3,25152000.0
+Bangalore,Yelahanka,2688,4,4,29335000.0
+Bangalore,Electronic City,983,2,2,9814000.0
+Bangalore,Whitefield,3466,5,5,58443000.0
+Delhi,Rohini,1506,3,3,11954000.0
+Delhi,Rohini,955,2,2,8005000.0
+Chennai,Pallavaram,1321,3,3,10024000.0
+Hyderabad,Kukatpally,1488,3,3,8302000.0
+Mumbai,Andheri East,2143,4,4,39721000.0
+Mumbai,Lower Parel,952,2,2,21431000.0
+Mumbai,Chembur,1170,2,2,17130000.0
+Hyderabad,Gachibowli,1180,2,2,9483000.0
+Mumbai,Chembur,1641,3,2,24153000.0
+Chennai,OMR,1258,3,2,13486000.0
+Delhi,Dwarka,914,2,2,9405000.0
+Bangalore,Electronic City,1548,3,2,13686000.0
+Mumbai,Worli,527,1,1,10662000.0
+Hyderabad,HITEC City,729,2,2,6007000.0
+Delhi,Dwarka,912,2,2,7267000.0
+Hyderabad,Kukatpally,748,2,2,4837000.0
+Chennai,Pallavaram,1174,3,2,9174000.0
+Mumbai,Lower Parel,1621,3,3,32728000.0
+Mumbai,Chembur,1419,3,3,22447000.0
+Delhi,Uttam Nagar,1719,3,3,10273000.0
+Delhi,Uttam Nagar,1667,3,2,9078000.0
+Mumbai,Borivali,2794,4,4,36353000.0
+Delhi,Dwarka,1301,3,3,13585000.0
+Bangalore,Hebbal,1327,3,3,21599000.0
+Chennai,Ambattur,798,2,2,6042000.0
+Chennai,Pallavaram,928,2,1,6490000.0
+Mumbai,Andheri East,1540,3,2,34988000.0
+Hyderabad,Gachibowli,2998,5,4,25172000.0
+Bangalore,Whitefield,623,1,1,7605000.0
+Chennai,Chromepet,948,2,1,7151000.0
+Delhi,Uttam Nagar,1167,2,2,6702000.0
+Chennai,Chromepet,1163,2,2,8398000.0
+Hyderabad,Gachibowli,1450,3,3,13367000.0
+Hyderabad,Kondapur,2075,4,3,15724000.0
+Mumbai,Borivali,2487,4,4,39209000.0
+Mumbai,Andheri East,1051,2,2,17202000.0
+Bangalore,Whitefield,1538,3,2,18523000.0
+Delhi,Rohini,1366,3,2,13163000.0
+Bangalore,Sarjapur Road,494,1,1,5362000.0
+Mumbai,Borivali,1156,3,2,16259000.0
+Chennai,Medavakkam,1442,3,2,11574000.0
+Mumbai,Worli,1401,3,3,30294000.0
+Delhi,Greater Kailash,3418,5,5,54126000.0
+Hyderabad,Gachibowli,2528,4,4,26288000.0
+Chennai,OMR,712,2,2,8055000.0
+Delhi,Greater Kailash,2593,4,4,47703000.0
+Hyderabad,Gachibowli,1108,3,3,10821000.0
+Mumbai,Andheri East,1908,4,4,41577000.0
+Mumbai,Borivali,1858,4,4,29257000.0
+Bangalore,Yelahanka,1788,3,2,16900000.0
+Bangalore,Electronic City,1183,3,3,12055000.0
+Mumbai,Worli,1551,3,2,39118000.0
+Chennai,Ambattur,1184,2,1,8519000.0
+Hyderabad,Gachibowli,787,2,2,5982000.0
+Chennai,Medavakkam,2490,4,3,20727000.0
+Bangalore,Sarjapur Road,1607,3,3,21523000.0
+Mumbai,Chembur,1047,2,2,17185000.0
+Hyderabad,Kondapur,453,1,1,2582000.0
+Delhi,Saket,912,2,2,13572000.0
+Bangalore,Whitefield,705,2,2,9448000.0
+Chennai,Ambattur,1435,3,3,12135000.0
+Hyderabad,Miyapur,1320,3,3,8291000.0
+Delhi,Saket,1330,3,2,14930000.0
+Chennai,Chromepet,930,2,2,7401000.0
+Delhi,Dwarka,1085,2,2,10684000.0
+Hyderabad,Kukatpally,1700,3,3,11417000.0
+Hyderabad,Miyapur,1047,2,2,5701000.0
+Chennai,Chromepet,487,1,1,3510000.0
+Bangalore,Whitefield,1262,3,2,16417000.0
+Bangalore,Electronic City,1176,2,2,11021000.0
+Bangalore,Yelahanka,2231,4,4,23720000.0
+Chennai,Medavakkam,1573,3,3,14677000.0
+Hyderabad,Kondapur,1056,2,1,8514000.0
+Delhi,Saket,2466,4,4,37478000.0
+Delhi,Dwarka,517,1,1,4893000.0
+Mumbai,Chembur,884,2,2,14224000.0
+Delhi,Saket,3702,5,5,63778000.0
+Hyderabad,Kukatpally,1442,3,3,9301000.0
+Mumbai,Borivali,1216,3,2,16127000.0
+Mumbai,Andheri East,1792,3,2,29477000.0
+Delhi,Dwarka,1406,3,3,14629000.0
+Mumbai,Lower Parel,2341,4,3,57140000.0
+Chennai,Medavakkam,876,2,2,6431000.0
+Delhi,Uttam Nagar,979,2,2,4982000.0
+Hyderabad,Gachibowli,687,1,1,5205000.0
+Delhi,Greater Kailash,1112,3,2,19849000.0
+Chennai,Pallavaram,959,2,1,6914000.0
+Hyderabad,Kukatpally,3681,5,5,29868000.0
+Mumbai,Chembur,1301,3,2,20589000.0
+Mumbai,Borivali,1573,3,2,21486000.0
+Hyderabad,Miyapur,891,2,2,4829000.0
+Hyderabad,Gachibowli,1285,3,3,11700000.0
+Mumbai,Lower Parel,1704,4,4,44178000.0
+Hyderabad,Kondapur,1120,3,3,8162000.0
+Delhi,Dwarka,464,1,1,3800000.0
+Delhi,Dwarka,973,2,2,8462000.0
+Mumbai,Lower Parel,1181,2,1,25089000.0
+Hyderabad,Kukatpally,1759,4,4,10948000.0
+Chennai,Pallavaram,510,1,1,3021000.0
+Chennai,Chromepet,1044,2,1,7694000.0
+Delhi,Saket,1251,3,2,19689000.0
+Mumbai,Worli,1165,3,2,30811000.0
+Bangalore,Hebbal,657,1,1,9956000.0
+Bangalore,Yelahanka,1650,3,3,17079000.0
+Chennai,Ambattur,839,2,2,6809000.0
+Chennai,OMR,2732,5,4,40257000.0
+Bangalore,Hebbal,665,1,1,9184000.0
+Bangalore,Electronic City,422,1,1,3397000.0
+Bangalore,Sarjapur Road,1645,3,2,21401000.0
+Bangalore,Electronic City,1116,2,2,10466000.0
+Hyderabad,Miyapur,1922,4,4,12642000.0
+Chennai,Pallavaram,2145,4,4,17277000.0
+Mumbai,Chembur,943,2,2,15692000.0
+Bangalore,Whitefield,2723,4,4,39739000.0
+Bangalore,Yelahanka,1361,3,3,15491000.0
+Delhi,Greater Kailash,750,2,2,12561000.0
+Bangalore,Electronic City,1716,3,3,17810000.0
+Delhi,Rohini,2755,4,3,26867000.0
+Delhi,Saket,2681,4,3,41355000.0
+Chennai,Ambattur,515,1,1,3655000.0
+Bangalore,Electronic City,2662,4,4,25907000.0
+Bangalore,Hebbal,1728,3,3,24098000.0
+Hyderabad,Kondapur,1028,2,1,7946000.0
+Mumbai,Chembur,1191,3,3,17273000.0
+Bangalore,Electronic City,886,2,2,7699000.0
+Chennai,OMR,1111,2,1,13064000.0
+Delhi,Saket,796,2,1,11755000.0
+Bangalore,Electronic City,863,2,1,8440000.0
+Delhi,Uttam Nagar,2882,5,5,18566000.0
+Bangalore,Hebbal,1614,3,3,25452000.0
+Delhi,Uttam Nagar,2226,4,3,14486000.0
+Delhi,Uttam Nagar,922,2,2,4730000.0
+Hyderabad,HITEC City,2764,4,4,29796000.0
+Delhi,Dwarka,1628,4,3,16409000.0
+Delhi,Uttam Nagar,1849,4,4,13155000.0
+Delhi,Saket,1575,3,3,19437000.0
+Delhi,Saket,714,2,2,8952000.0
+Hyderabad,Miyapur,1198,3,3,6369000.0
+Bangalore,Electronic City,830,2,2,8372000.0
+Bangalore,Hebbal,1183,3,2,20171000.0
+Bangalore,Yelahanka,740,2,1,7111000.0
+Chennai,Pallavaram,1062,2,2,7663000.0
+Chennai,Medavakkam,2468,4,3,22365000.0
+Bangalore,Electronic City,2391,4,4,25540000.0
+Hyderabad,Kondapur,590,1,1,4195000.0
+Chennai,Ambattur,1192,3,3,9207000.0
+Chennai,Pallavaram,1565,3,3,10928000.0
+Mumbai,Chembur,999,2,1,13660000.0
+Delhi,Saket,855,2,1,11657000.0
+Bangalore,Whitefield,752,2,1,8669000.0
+Hyderabad,Kondapur,1203,3,3,9396000.0
+Chennai,Medavakkam,1148,2,2,7955000.0
+Mumbai,Borivali,873,2,2,10353000.0
+Delhi,Rohini,1187,2,1,10169000.0
+Chennai,Chromepet,1235,3,2,8937000.0
+Hyderabad,Gachibowli,751,2,1,5426000.0
+Mumbai,Chembur,2412,4,3,36870000.0
+Delhi,Rohini,3654,5,4,35272000.0
+Mumbai,Chembur,1603,3,3,23850000.0
+Delhi,Dwarka,614,1,1,5626000.0
+Bangalore,Hebbal,725,2,2,10743000.0
+Delhi,Uttam Nagar,3453,5,5,24006000.0
+Bangalore,Sarjapur Road,2760,4,4,40458000.0
+Chennai,Chromepet,1081,2,2,9133000.0
+Hyderabad,Kondapur,1060,2,2,6641000.0
+Chennai,Pallavaram,2273,4,4,19450000.0
+Mumbai,Lower Parel,1586,3,2,31140000.0
+Mumbai,Worli,1650,3,3,46046000.0
+Chennai,Pallavaram,750,2,1,5700000.0
+Bangalore,Sarjapur Road,1715,3,3,23891000.0
+Chennai,OMR,791,2,1,8794000.0
+Mumbai,Worli,1579,3,2,38067000.0
+Chennai,Pallavaram,2289,4,4,18494000.0
+Chennai,Pallavaram,2583,4,4,21395000.0
+Hyderabad,HITEC City,948,2,1,7538000.0
+Delhi,Greater Kailash,1965,4,3,32547000.0
+Chennai,OMR,1100,2,2,12262000.0
+Mumbai,Chembur,424,1,1,4101000.0
+Mumbai,Chembur,1092,2,2,15760000.0
+Bangalore,Hebbal,1266,3,2,19436000.0
+Chennai,Chromepet,1274,3,3,11208000.0
+Chennai,Ambattur,838,2,2,5620000.0
+Bangalore,Hebbal,764,2,2,10134000.0
+Hyderabad,Kondapur,2759,4,4,21020000.0
+Hyderabad,HITEC City,549,1,1,4771000.0
+Bangalore,Yelahanka,2509,4,3,31597000.0
+Hyderabad,Gachibowli,1406,3,2,12950000.0
+Chennai,Medavakkam,887,2,2,8084000.0
+Chennai,Medavakkam,728,2,1,5435000.0
+Mumbai,Worli,1401,3,3,38058000.0
+Chennai,OMR,1259,3,3,14695000.0
+Hyderabad,Kukatpally,466,1,1,2222000.0
+Bangalore,Sarjapur Road,750,2,2,9317000.0
+Delhi,Uttam Nagar,996,2,2,5937000.0
+Chennai,OMR,801,2,1,7323000.0
+Bangalore,Electronic City,1648,3,3,16692000.0
+Bangalore,Hebbal,1125,3,3,16018000.0
+Hyderabad,HITEC City,1346,3,2,13291000.0
+Chennai,Pallavaram,607,1,1,4152000.0
+Mumbai,Lower Parel,1155,2,2,24158000.0
+Delhi,Greater Kailash,1037,2,1,12603000.0
+Chennai,OMR,2919,5,5,43585000.0
+Chennai,Chromepet,1519,3,2,12231000.0
+Delhi,Greater Kailash,656,1,1,8799000.0
+Hyderabad,Gachibowli,1081,2,2,8168000.0
+Delhi,Rohini,1182,3,3,10086000.0
+Mumbai,Worli,679,1,1,14227000.0
+Delhi,Greater Kailash,1743,3,3,24266000.0
+Mumbai,Worli,1797,3,2,46892000.0
+Delhi,Greater Kailash,1313,3,3,23033000.0
+Chennai,Pallavaram,1526,3,3,12883000.0
+Bangalore,Hebbal,521,1,1,8101000.0
+Mumbai,Worli,2827,5,5,81304000.0
+Mumbai,Andheri East,754,2,2,12531000.0
+Hyderabad,Kondapur,678,1,1,3821000.0
+Delhi,Saket,1202,3,3,15875000.0
+Hyderabad,HITEC City,1358,3,3,13315000.0
+Mumbai,Chembur,784,2,2,13447000.0
+Chennai,Pallavaram,2770,4,4,21575000.0
+Hyderabad,Kondapur,997,2,1,6791000.0
+Bangalore,Electronic City,1063,2,1,12408000.0
+Bangalore,Sarjapur Road,1026,2,1,13537000.0
+Mumbai,Worli,1061,2,2,25419000.0
+Hyderabad,Gachibowli,767,2,1,6199000.0
+Delhi,Dwarka,949,2,2,9565000.0
+Delhi,Uttam Nagar,552,1,1,2494000.0
+Mumbai,Worli,2784,4,3,69474000.0
+Hyderabad,Kukatpally,2792,4,3,17672000.0
+Mumbai,Lower Parel,1248,3,2,32773000.0
+Delhi,Rohini,2156,4,3,19547000.0
+Chennai,Medavakkam,1639,3,3,13897000.0
+Chennai,Chromepet,1927,4,3,14810000.0
+Hyderabad,Kondapur,1035,2,1,7435000.0
+Bangalore,Electronic City,1048,2,1,10025000.0
+Hyderabad,Kukatpally,1091,2,2,6278000.0
+Chennai,Ambattur,882,2,2,6816000.0
+Bangalore,Whitefield,886,2,2,11715000.0
+Mumbai,Chembur,859,2,2,13010000.0
+Hyderabad,Miyapur,1402,3,3,8946000.0
+Bangalore,Sarjapur Road,1021,2,1,12304000.0
+Bangalore,Whitefield,914,2,1,11411000.0
+Hyderabad,Gachibowli,1560,3,2,13475000.0
+Mumbai,Chembur,1187,2,1,17203000.0
+Delhi,Saket,2762,5,5,44998000.0
+Hyderabad,Kukatpally,1767,3,3,12273000.0
+Hyderabad,Miyapur,1173,3,3,7967000.0
+Mumbai,Lower Parel,1663,3,2,42218000.0
+Hyderabad,Kondapur,1089,2,1,8189000.0
+Hyderabad,Kondapur,1273,3,3,10265000.0
+Hyderabad,Kukatpally,812,2,2,3857000.0
+Hyderabad,HITEC City,2799,4,4,26976000.0
+Delhi,Rohini,734,2,2,5982000.0
+Hyderabad,Kondapur,2383,4,3,20034000.0
+Bangalore,Electronic City,1459,3,3,14032000.0
+Chennai,OMR,1695,3,2,19568000.0
+Bangalore,Whitefield,1150,3,3,14049000.0
+Hyderabad,Kondapur,605,1,1,4110000.0
+Hyderabad,Kukatpally,1608,3,3,9385000.0
+Delhi,Rohini,909,2,2,6633000.0
+Delhi,Saket,977,2,1,11744000.0
+Bangalore,Yelahanka,769,2,2,6939000.0
+Hyderabad,Kukatpally,890,2,2,4911000.0
+Mumbai,Chembur,2696,4,4,54486000.0
+Hyderabad,Miyapur,872,2,2,5421000.0
+Mumbai,Chembur,1553,3,3,24444000.0
+Delhi,Saket,1479,3,3,22805000.0
+Mumbai,Chembur,961,2,2,14040000.0
+Chennai,Pallavaram,1426,3,3,11790000.0
+Delhi,Dwarka,605,1,1,5677000.0
+Delhi,Dwarka,845,2,2,7480000.0
+Hyderabad,Miyapur,1730,3,2,10515000.0
+Hyderabad,Kukatpally,1271,3,3,7381000.0
+Hyderabad,Kukatpally,1078,2,2,5832000.0
+Bangalore,Hebbal,1329,3,2,22510000.0
+Chennai,Medavakkam,2124,4,4,20054000.0
+Hyderabad,Kondapur,1030,2,2,7835000.0
+Hyderabad,Kukatpally,2240,4,3,14429000.0
+Hyderabad,Kondapur,1706,3,3,12760000.0
+Bangalore,Whitefield,1291,3,2,17580000.0
+Mumbai,Borivali,1106,3,3,14193000.0
+Hyderabad,HITEC City,728,2,2,6730000.0
+Chennai,Medavakkam,2409,5,5,26750000.0
+Chennai,Medavakkam,2143,4,4,21087000.0
+Delhi,Uttam Nagar,929,2,2,4883000.0
+Hyderabad,Gachibowli,512,1,1,3740000.0
+Delhi,Dwarka,2296,4,3,22563000.0
+Mumbai,Chembur,720,2,2,10176000.0
+Hyderabad,Miyapur,716,2,1,4019000.0
+Hyderabad,Kondapur,841,2,1,6025000.0
+Bangalore,Sarjapur Road,1099,2,1,12751000.0
+Delhi,Rohini,1909,4,4,16342000.0
+Hyderabad,Miyapur,920,2,2,4441000.0
+Hyderabad,Gachibowli,1742,3,3,15740000.0
+Mumbai,Andheri East,2562,4,3,50461000.0
+Chennai,OMR,2833,5,4,41313000.0
+Chennai,Medavakkam,2762,5,4,24078000.0
+Mumbai,Lower Parel,975,2,1,24403000.0
+Mumbai,Borivali,2636,4,4,41508000.0
+Hyderabad,HITEC City,1220,3,3,12257000.0
+Delhi,Greater Kailash,961,2,1,14175000.0
+Mumbai,Worli,1084,2,2,25671000.0
+Delhi,Rohini,801,2,2,6841000.0
+Delhi,Dwarka,2491,4,3,26869000.0
+Chennai,OMR,1689,3,2,19797000.0
+Hyderabad,Gachibowli,583,1,1,3896000.0
+Delhi,Greater Kailash,1285,3,3,21225000.0
+Chennai,Ambattur,1328,3,3,10826000.0
+Mumbai,Borivali,1601,3,3,20929000.0
+Mumbai,Lower Parel,986,2,2,25784000.0
+Chennai,Ambattur,747,2,2,6131000.0
+Bangalore,Hebbal,1490,3,2,21838000.0
+Hyderabad,Kukatpally,2809,5,5,20826000.0
+Hyderabad,HITEC City,720,2,2,6753000.0
+Mumbai,Lower Parel,970,2,1,19813000.0
+Bangalore,Sarjapur Road,3800,5,5,60320000.0
+Chennai,Medavakkam,1466,3,3,12461000.0
+Hyderabad,Kukatpally,1188,3,3,7885000.0
+Mumbai,Andheri East,1717,3,3,35975000.0
+Bangalore,Whitefield,1195,3,2,17442000.0
+Hyderabad,Miyapur,866,2,2,5323000.0
+Mumbai,Worli,3197,5,5,94504000.0
+Mumbai,Worli,1195,3,3,32391000.0
+Bangalore,Yelahanka,1702,4,4,20765000.0
+Hyderabad,Kondapur,1649,3,3,14910000.0
+Chennai,Chromepet,1124,2,2,8053000.0
+Chennai,Pallavaram,1798,3,2,15523000.0
+Mumbai,Lower Parel,1799,3,3,42464000.0
+Chennai,Chromepet,1455,3,2,12821000.0
+Bangalore,Whitefield,859,2,1,10597000.0
+Hyderabad,Gachibowli,1481,3,3,13714000.0
+Delhi,Rohini,993,2,2,7095000.0
+Mumbai,Borivali,723,2,2,9622000.0
+Bangalore,Whitefield,939,2,1,12373000.0
+Mumbai,Lower Parel,1202,3,3,31178000.0
+Hyderabad,Kukatpally,1377,3,3,7709000.0
+Delhi,Rohini,1125,3,3,9006000.0
+Hyderabad,Kondapur,702,2,2,4878000.0
+Hyderabad,HITEC City,1416,3,3,12434000.0
+Hyderabad,Kondapur,1536,3,3,12172000.0
+Chennai,OMR,3578,5,5,44909000.0
+Chennai,Pallavaram,2034,4,4,17417000.0
+Bangalore,Whitefield,586,1,1,7125000.0
+Bangalore,Hebbal,1792,3,3,27605000.0
+Hyderabad,HITEC City,1496,3,2,13405000.0
+Delhi,Uttam Nagar,1288,3,2,8455000.0
+Bangalore,Yelahanka,897,2,1,9631000.0
+Mumbai,Andheri East,465,1,1,6253000.0
+Mumbai,Andheri East,1139,3,3,19895000.0
+Hyderabad,HITEC City,1714,4,4,16755000.0
+Mumbai,Borivali,1423,3,2,18501000.0
+Mumbai,Andheri East,2895,5,5,64887000.0
+Bangalore,Sarjapur Road,853,2,1,9876000.0
+Bangalore,Yelahanka,720,2,2,7375000.0
+Bangalore,Yelahanka,1534,3,2,15469000.0
+Delhi,Dwarka,1443,3,2,13470000.0
+Mumbai,Andheri East,1383,3,3,27924000.0
+Chennai,Pallavaram,1745,4,3,13521000.0
+Chennai,Medavakkam,490,1,1,3969000.0
+Chennai,Medavakkam,537,1,1,3146000.0
+Delhi,Greater Kailash,780,2,2,11138000.0
+Mumbai,Lower Parel,1812,4,4,46761000.0
+Bangalore,Whitefield,1137,2,2,12683000.0
+Chennai,OMR,1464,3,3,15329000.0
+Chennai,Pallavaram,1086,2,1,8793000.0
+Hyderabad,Kukatpally,721,2,2,3812000.0
+Bangalore,Yelahanka,1122,2,2,12290000.0
+Mumbai,Andheri East,725,2,2,13758000.0
+Mumbai,Borivali,1952,4,4,31914000.0
+Delhi,Rohini,1057,2,2,8959000.0
+Delhi,Rohini,825,2,2,6925000.0
+Hyderabad,Gachibowli,701,2,2,4928000.0
+Chennai,Ambattur,3609,5,5,36618000.0
+Delhi,Uttam Nagar,2089,4,3,13370000.0
+Mumbai,Andheri East,1507,3,3,29638000.0
+Chennai,Ambattur,1546,3,2,13506000.0
+Delhi,Rohini,486,1,1,3499000.0
+Mumbai,Andheri East,1345,3,3,24459000.0
+Delhi,Dwarka,531,1,1,3623000.0
+Delhi,Saket,858,2,2,11003000.0
+Hyderabad,Miyapur,576,1,1,2900000.0
+Hyderabad,HITEC City,1104,2,2,8705000.0
+Hyderabad,Miyapur,948,2,2,5330000.0
+Chennai,Pallavaram,1028,2,1,7116000.0
+Hyderabad,HITEC City,1618,3,3,16638000.0
+Chennai,OMR,3513,5,4,45040000.0
+Delhi,Greater Kailash,2099,4,3,34525000.0
+Chennai,Chromepet,1243,3,2,10191000.0
+Chennai,Medavakkam,1020,2,1,8884000.0
+Mumbai,Chembur,2832,5,4,42145000.0
+Hyderabad,HITEC City,466,1,1,4076000.0
+Hyderabad,Miyapur,1184,2,2,6132000.0
+Bangalore,Yelahanka,1040,2,1,9420000.0
+Bangalore,Whitefield,1680,3,2,28251000.0
+Delhi,Greater Kailash,615,1,1,7872000.0
+Mumbai,Andheri East,2123,4,4,45442000.0
+Delhi,Dwarka,1271,3,3,12653000.0
+Chennai,Ambattur,2699,4,3,23834000.0
+Mumbai,Borivali,2623,5,4,41367000.0
+Mumbai,Worli,1735,3,3,45953000.0
+Delhi,Uttam Nagar,840,2,2,4426000.0
+Chennai,Pallavaram,1325,3,3,12127000.0
+Bangalore,Sarjapur Road,821,2,2,9534000.0
+Delhi,Greater Kailash,1399,3,3,22959000.0
+Chennai,Medavakkam,1394,3,3,14062000.0
+Bangalore,Electronic City,2009,4,4,23244000.0
+Bangalore,Whitefield,1145,2,1,15196000.0
+Chennai,Ambattur,841,2,2,5683000.0
+Chennai,Medavakkam,1416,3,3,12950000.0
+Chennai,Medavakkam,1780,3,3,16602000.0
+Chennai,Ambattur,859,2,2,5616000.0
+Bangalore,Hebbal,1746,3,3,27673000.0
+Bangalore,Sarjapur Road,1835,4,4,25119000.0
+Bangalore,Sarjapur Road,1210,3,2,16320000.0
+Mumbai,Chembur,613,1,1,8322000.0
+Bangalore,Hebbal,486,1,1,6456000.0
+Bangalore,Yelahanka,1118,3,3,11541000.0
+Hyderabad,Kondapur,1002,2,2,7909000.0
+Chennai,Pallavaram,1138,2,2,7733000.0
+Mumbai,Andheri East,804,2,1,12346000.0
+Hyderabad,Kukatpally,3455,5,5,23914000.0
+Chennai,Pallavaram,978,2,2,7728000.0
+Delhi,Uttam Nagar,1068,2,1,5267000.0
+Hyderabad,Kondapur,1501,3,3,10295000.0
+Mumbai,Chembur,748,2,2,11850000.0
+Hyderabad,Gachibowli,1024,2,2,8542000.0
+Chennai,Chromepet,762,2,2,6107000.0
+Mumbai,Worli,1127,2,2,31295000.0
+Mumbai,Worli,1818,4,4,54306000.0
+Chennai,Chromepet,669,1,1,3833000.0
+Bangalore,Yelahanka,940,2,1,7432000.0
+Delhi,Greater Kailash,741,2,1,10031000.0
+Hyderabad,HITEC City,1578,3,3,14749000.0
+Hyderabad,Kukatpally,762,2,2,4159000.0
+Hyderabad,HITEC City,1469,3,2,15633000.0
+Bangalore,Electronic City,1363,3,3,13051000.0
+Mumbai,Lower Parel,792,2,2,20255000.0
+Bangalore,Hebbal,2563,5,5,49466000.0
+Hyderabad,Gachibowli,1435,3,3,12305000.0
+Hyderabad,Kukatpally,804,2,2,4689000.0
+Delhi,Uttam Nagar,966,2,2,5161000.0
+Chennai,Medavakkam,447,1,1,3285000.0
+Hyderabad,HITEC City,2475,4,4,23187000.0
+Hyderabad,Miyapur,1779,3,2,10757000.0
+Mumbai,Borivali,1148,3,3,16920000.0
+Mumbai,Andheri East,2647,5,5,60782000.0
+Hyderabad,HITEC City,1467,3,2,13938000.0
+Mumbai,Chembur,1238,3,2,18544000.0
+Delhi,Uttam Nagar,1525,3,3,9800000.0
+Bangalore,Whitefield,709,2,2,9116000.0
+Mumbai,Borivali,1170,2,2,14015000.0
+Delhi,Saket,2353,4,3,32952000.0
+Mumbai,Chembur,1112,2,2,12657000.0
+Chennai,Medavakkam,1451,3,2,10767000.0
+Chennai,Medavakkam,1187,3,3,11856000.0
+Mumbai,Worli,890,2,2,21811000.0
+Bangalore,Whitefield,860,2,2,10144000.0
+Hyderabad,HITEC City,879,2,1,8562000.0
+Mumbai,Andheri East,2129,4,4,39227000.0
+Mumbai,Worli,1276,3,2,32662000.0
+Delhi,Rohini,3578,5,5,35186000.0
+Hyderabad,Miyapur,2467,5,5,16457000.0
+Mumbai,Lower Parel,831,2,1,19246000.0
+Mumbai,Andheri East,1132,2,2,18822000.0
+Bangalore,Whitefield,1045,2,2,15422000.0
+Delhi,Uttam Nagar,917,2,2,5665000.0
+Chennai,Chromepet,970,2,2,8332000.0
+Bangalore,Yelahanka,1012,2,2,11439000.0
+Delhi,Saket,1183,2,2,15246000.0
+Chennai,Chromepet,927,2,1,6857000.0
+Chennai,Pallavaram,989,2,2,7893000.0
+Mumbai,Borivali,1190,3,2,16977000.0
+Bangalore,Yelahanka,1423,3,3,14466000.0
+Chennai,Medavakkam,728,2,2,5945000.0
+Bangalore,Whitefield,408,1,1,4698000.0
+Chennai,Chromepet,522,1,1,3519000.0
+Mumbai,Chembur,1167,3,3,18870000.0
+Delhi,Dwarka,3243,5,5,39137000.0
+Bangalore,Electronic City,575,1,1,5533000.0
+Delhi,Rohini,927,2,2,7098000.0
+Bangalore,Hebbal,1227,3,3,19780000.0
+Mumbai,Borivali,2353,4,4,34330000.0
+Hyderabad,Kondapur,1726,3,3,13114000.0
+Chennai,OMR,955,2,2,11122000.0
+Bangalore,Whitefield,2309,4,3,30947000.0
+Mumbai,Borivali,1477,3,3,23272000.0
+Chennai,Medavakkam,1064,2,2,8148000.0
+Chennai,Ambattur,842,2,2,7123000.0
+Hyderabad,Gachibowli,1480,3,3,13152000.0
+Hyderabad,HITEC City,725,2,1,5396000.0
+Bangalore,Sarjapur Road,3088,5,4,45986000.0
+Chennai,Chromepet,838,2,1,6347000.0
+Chennai,Pallavaram,2194,4,4,19449000.0
+Delhi,Uttam Nagar,2099,4,4,12607000.0
+Hyderabad,Kondapur,834,2,2,6425000.0
+Bangalore,Electronic City,1416,3,2,14367000.0
+Bangalore,Yelahanka,1735,3,3,19529000.0
+Mumbai,Borivali,1688,3,3,21757000.0
+Mumbai,Lower Parel,3553,5,5,88018000.0
+Chennai,Pallavaram,1138,3,2,8471000.0
+Delhi,Greater Kailash,437,1,1,6105000.0
+Bangalore,Electronic City,1470,3,3,15366000.0
+Mumbai,Worli,1629,3,2,39395000.0
+Bangalore,Sarjapur Road,882,2,1,10608000.0
+Hyderabad,HITEC City,958,2,2,8104000.0
+Delhi,Dwarka,3942,5,5,44774000.0
+Chennai,Pallavaram,3416,5,5,32707000.0
+Chennai,Ambattur,1142,2,2,8768000.0
+Chennai,Chromepet,2277,4,4,19189000.0
+Chennai,Chromepet,2028,4,4,18395000.0
+Delhi,Dwarka,760,2,2,7372000.0
+Hyderabad,Gachibowli,788,2,2,5890000.0
+Bangalore,Sarjapur Road,2224,4,3,30400000.0
+Chennai,OMR,2724,4,4,31872000.0
+Chennai,OMR,2211,4,4,24903000.0
+Chennai,Chromepet,1530,3,3,11623000.0
+Hyderabad,HITEC City,1479,3,3,14335000.0
+Delhi,Dwarka,557,1,1,4009000.0
+Bangalore,Sarjapur Road,1419,3,3,19677000.0
+Delhi,Greater Kailash,1531,3,3,26674000.0
+Hyderabad,Gachibowli,758,2,2,5658000.0
+Mumbai,Chembur,1404,3,3,20879000.0
+Delhi,Uttam Nagar,2732,4,4,18845000.0
+Mumbai,Andheri East,1962,4,4,37959000.0
+Bangalore,Whitefield,982,2,1,12549000.0
+Delhi,Uttam Nagar,1203,3,2,7591000.0
+Delhi,Uttam Nagar,1358,3,2,6693000.0
+Hyderabad,Miyapur,986,2,2,4860000.0
+Hyderabad,HITEC City,1112,2,2,9391000.0
+Chennai,Ambattur,1038,2,1,8552000.0
+Delhi,Saket,1336,3,3,18619000.0
+Chennai,Ambattur,1669,3,2,14351000.0
+Delhi,Greater Kailash,1540,3,3,22735000.0
+Mumbai,Chembur,1092,2,2,17211000.0
+Bangalore,Electronic City,1330,3,3,12189000.0
+Delhi,Dwarka,1564,3,3,14581000.0
+Delhi,Saket,3830,5,5,61543000.0
+Hyderabad,Kondapur,642,1,1,4336000.0
+Hyderabad,Kondapur,2149,4,4,17954000.0
+Bangalore,Hebbal,1685,3,2,26680000.0
+Hyderabad,Gachibowli,916,2,2,6691000.0
+Hyderabad,Kukatpally,1189,2,2,7378000.0
+Delhi,Dwarka,1424,3,3,13229000.0
+Hyderabad,Kukatpally,980,2,2,4950000.0
+Bangalore,Electronic City,1128,3,3,11571000.0
+Hyderabad,Miyapur,950,2,1,5245000.0
+Hyderabad,Gachibowli,1672,4,3,12728000.0
+Chennai,Ambattur,1283,3,3,10582000.0
+Mumbai,Lower Parel,1797,3,3,45785000.0
+Delhi,Rohini,1136,2,1,8839000.0
+Bangalore,Electronic City,407,1,1,3551000.0
+Mumbai,Chembur,659,1,1,7881000.0
+Delhi,Saket,878,2,2,11095000.0
+Hyderabad,Miyapur,1693,3,2,7761000.0
+Mumbai,Borivali,1305,3,3,19160000.0
+Chennai,Chromepet,2095,4,4,17710000.0
+Mumbai,Chembur,1396,3,2,21330000.0
+Chennai,OMR,838,2,2,9095000.0
+Hyderabad,Kondapur,2952,5,5,24429000.0
+Chennai,Ambattur,555,1,1,3418000.0
+Bangalore,Hebbal,1030,2,2,16494000.0
+Bangalore,Yelahanka,461,1,1,4135000.0
+Hyderabad,Kondapur,2582,4,4,20753000.0
+Hyderabad,Gachibowli,1572,3,2,13096000.0
+Chennai,Chromepet,1509,3,2,12233000.0
+Chennai,Medavakkam,1413,3,2,12190000.0
+Chennai,Chromepet,1300,3,3,8774000.0
+Delhi,Greater Kailash,954,2,2,13950000.0
+Delhi,Saket,1119,2,1,13421000.0
+Mumbai,Worli,1645,3,3,44937000.0
+Delhi,Rohini,1463,3,3,12290000.0
+Hyderabad,Kukatpally,1145,3,2,6658000.0
+Hyderabad,Miyapur,2514,4,4,14798000.0
+Chennai,Medavakkam,803,2,2,6417000.0
+Mumbai,Lower Parel,1293,3,2,27231000.0
+Mumbai,Borivali,772,2,2,9811000.0
+Chennai,Medavakkam,799,2,2,6469000.0
+Mumbai,Lower Parel,1146,3,3,26989000.0
+Mumbai,Borivali,950,2,2,12887000.0
+Hyderabad,HITEC City,715,2,2,6323000.0
+Delhi,Uttam Nagar,958,2,1,5376000.0
+Chennai,Chromepet,788,2,2,5465000.0
+Hyderabad,HITEC City,1052,2,1,11435000.0
+Chennai,Chromepet,444,1,1,3086000.0
+Hyderabad,Kondapur,1027,2,1,7544000.0
+Mumbai,Borivali,1024,2,1,13211000.0
+Hyderabad,Gachibowli,1298,3,2,11489000.0
+Hyderabad,Kukatpally,1610,3,3,8803000.0
+Delhi,Dwarka,1327,3,2,14973000.0
+Delhi,Rohini,1690,3,2,14575000.0
+Bangalore,Sarjapur Road,1200,2,2,13476000.0
+Hyderabad,Miyapur,2489,4,3,14857000.0
+Hyderabad,Miyapur,1701,3,3,10217000.0
+Chennai,Ambattur,2484,4,4,23646000.0
+Delhi,Dwarka,1661,3,3,16096000.0
+Mumbai,Borivali,826,2,2,10532000.0
+Chennai,Chromepet,2319,4,4,19445000.0
+Bangalore,Electronic City,829,2,2,7629000.0
+Chennai,Chromepet,1741,3,3,15959000.0
+Mumbai,Chembur,1623,3,3,24084000.0
+Chennai,OMR,1786,3,3,19370000.0
+Chennai,Medavakkam,555,1,1,4362000.0
+Delhi,Uttam Nagar,1142,3,3,6033000.0
+Hyderabad,Kukatpally,989,2,1,5132000.0
+Delhi,Greater Kailash,1944,4,4,32526000.0
+Chennai,Chromepet,1757,3,3,13905000.0
+Mumbai,Andheri East,991,2,1,16456000.0
+Delhi,Rohini,1602,3,3,13431000.0
+Mumbai,Worli,976,2,2,24901000.0
+Bangalore,Sarjapur Road,1500,3,3,21937000.0
+Bangalore,Sarjapur Road,1404,3,3,20004000.0
+Delhi,Dwarka,885,2,2,7399000.0
+Bangalore,Hebbal,1451,3,3,23080000.0
+Delhi,Greater Kailash,1676,3,3,29785000.0
+Bangalore,Electronic City,1015,2,2,10381000.0
+Hyderabad,Miyapur,1137,2,2,5663000.0
+Bangalore,Whitefield,1646,3,3,24144000.0
+Chennai,OMR,1020,2,2,10742000.0
+Delhi,Saket,494,1,1,5970000.0
+Bangalore,Whitefield,1466,3,2,22789000.0
+Delhi,Dwarka,968,2,1,9071000.0
+Hyderabad,Gachibowli,3129,5,4,25908000.0
+Chennai,Medavakkam,1989,4,3,17792000.0
+Delhi,Uttam Nagar,1030,2,2,5495000.0
+Bangalore,Whitefield,2621,4,4,37806000.0
+Bangalore,Sarjapur Road,988,2,1,12947000.0
+Hyderabad,Gachibowli,872,2,2,6940000.0
+Delhi,Dwarka,2406,4,4,26650000.0
+Hyderabad,Kondapur,3234,5,5,30843000.0
+Delhi,Greater Kailash,844,2,2,12158000.0
+Hyderabad,Gachibowli,1665,3,3,14794000.0
+Mumbai,Worli,817,2,2,22045000.0
+Bangalore,Yelahanka,1672,3,3,19324000.0
+Hyderabad,Gachibowli,2413,4,4,21191000.0
+Mumbai,Andheri East,1537,3,2,26045000.0
+Chennai,Ambattur,1748,4,4,15230000.0
+Chennai,Pallavaram,725,2,2,5050000.0
+Bangalore,Hebbal,2089,4,3,35670000.0
+Chennai,Ambattur,1371,3,2,11087000.0
+Delhi,Greater Kailash,1768,3,3,28844000.0
+Bangalore,Hebbal,2072,4,3,32977000.0
+Hyderabad,Kondapur,1460,3,3,10262000.0
+Hyderabad,Kukatpally,1716,3,2,10819000.0
+Mumbai,Lower Parel,1484,3,3,33858000.0
+Hyderabad,Kukatpally,1147,2,2,6454000.0
+Mumbai,Chembur,1184,2,1,17796000.0
+Mumbai,Andheri East,1681,3,3,31051000.0
+Mumbai,Worli,1153,2,2,27810000.0
+Delhi,Uttam Nagar,2510,4,4,14145000.0
+Hyderabad,Kondapur,1310,3,3,11839000.0
+Chennai,Medavakkam,1453,3,3,13179000.0
+Hyderabad,Kondapur,1118,2,2,8131000.0
+Delhi,Uttam Nagar,2658,4,3,13899000.0
+Mumbai,Andheri East,754,2,2,10981000.0
+Delhi,Uttam Nagar,565,1,1,2610000.0
+Delhi,Greater Kailash,1172,3,3,24341000.0
+Chennai,Chromepet,1655,3,2,13396000.0
+Hyderabad,Gachibowli,1196,2,2,9714000.0
+Chennai,OMR,1004,2,1,8986000.0
+Mumbai,Andheri East,727,2,2,12072000.0
+Delhi,Saket,1727,3,3,21298000.0
+Delhi,Dwarka,1033,2,2,8382000.0
+Mumbai,Lower Parel,475,1,1,9767000.0
+Delhi,Saket,717,2,2,9189000.0
+Bangalore,Sarjapur Road,3194,5,4,52257000.0
+Bangalore,Whitefield,757,2,2,9604000.0
+Hyderabad,Miyapur,1173,3,3,6486000.0
+Chennai,Medavakkam,920,2,2,7826000.0
+Mumbai,Andheri East,3247,5,4,66217000.0
+Hyderabad,Gachibowli,773,2,1,6118000.0
+Hyderabad,HITEC City,798,2,2,7171000.0
+Delhi,Dwarka,700,1,1,5814000.0
+Mumbai,Borivali,2102,4,4,30448000.0
+Hyderabad,Gachibowli,1482,3,3,13075000.0
+Mumbai,Andheri East,1266,3,2,22381000.0
+Delhi,Uttam Nagar,1254,3,3,7415000.0
+Hyderabad,Kukatpally,2474,4,4,17177000.0
+Bangalore,Hebbal,1427,3,2,25853000.0
+Hyderabad,Gachibowli,1589,3,2,13333000.0
+Bangalore,Electronic City,1693,3,3,18640000.0
+Hyderabad,Kukatpally,507,1,1,2741000.0
+Delhi,Greater Kailash,573,1,1,6047000.0
+Mumbai,Worli,789,2,1,19946000.0
+Chennai,Pallavaram,874,2,2,6247000.0
+Delhi,Uttam Nagar,2562,4,3,16602000.0
+Hyderabad,Kondapur,1360,3,3,10594000.0
+Hyderabad,Kukatpally,1196,2,2,7035000.0
+Delhi,Rohini,1263,3,3,12517000.0
+Mumbai,Borivali,1170,3,3,16784000.0
+Bangalore,Electronic City,1790,3,3,18070000.0
+Mumbai,Worli,1095,2,1,25357000.0
+Delhi,Dwarka,848,2,2,7590000.0
+Hyderabad,Miyapur,2008,4,3,11722000.0
+Mumbai,Worli,1345,3,2,32144000.0
+Hyderabad,Kondapur,2026,4,4,17781000.0
+Bangalore,Electronic City,1251,3,3,11579000.0
+Hyderabad,HITEC City,1561,3,2,17300000.0
+Hyderabad,Kondapur,2522,4,4,22348000.0
+Chennai,OMR,556,1,1,4997000.0
+Chennai,Ambattur,1787,3,2,11692000.0
+Hyderabad,Kondapur,1113,2,2,7418000.0
+Bangalore,Sarjapur Road,853,2,2,11374000.0
+Hyderabad,Gachibowli,1595,3,3,13687000.0
+Hyderabad,Gachibowli,1642,3,3,14314000.0
+Mumbai,Worli,1170,2,2,25821000.0
+Bangalore,Electronic City,1201,3,3,12865000.0
+Chennai,OMR,1152,3,3,15668000.0
+Hyderabad,Miyapur,1078,2,2,5635000.0
+Hyderabad,HITEC City,824,2,2,8109000.0
+Bangalore,Yelahanka,782,2,2,8077000.0
+Bangalore,Whitefield,951,2,2,12865000.0
+Bangalore,Yelahanka,1653,3,3,17403000.0
+Bangalore,Sarjapur Road,453,1,1,5313000.0
+Chennai,Medavakkam,3701,5,5,39158000.0
+Delhi,Dwarka,1370,3,3,13518000.0
+Delhi,Rohini,1183,3,2,10048000.0
+Mumbai,Borivali,1803,4,3,28172000.0
+Hyderabad,HITEC City,1133,3,3,10456000.0
+Mumbai,Chembur,2737,4,3,48490000.0
+Delhi,Greater Kailash,906,2,1,13608000.0
+Chennai,Ambattur,2537,4,4,24555000.0
+Bangalore,Sarjapur Road,1256,3,3,16371000.0
+Mumbai,Chembur,497,1,1,6134000.0
+Chennai,Ambattur,894,2,1,6989000.0
+Hyderabad,Kondapur,1898,4,4,16245000.0
+Mumbai,Worli,588,1,1,12680000.0
+Bangalore,Whitefield,1011,2,1,13774000.0
+Chennai,OMR,561,1,1,5492000.0
+Hyderabad,Gachibowli,506,1,1,3604000.0
+Bangalore,Whitefield,1513,3,3,21853000.0
+Bangalore,Whitefield,670,1,1,8001000.0
+Mumbai,Lower Parel,1741,4,3,44372000.0
+Bangalore,Hebbal,825,2,2,12926000.0
+Bangalore,Whitefield,1175,2,2,14979000.0
+Mumbai,Andheri East,1549,3,3,24034000.0
+Chennai,Ambattur,1107,2,2,7139000.0
+Bangalore,Sarjapur Road,2514,4,3,37568000.0
+Chennai,Chromepet,610,1,1,4964000.0
+Bangalore,Electronic City,889,2,1,8081000.0
+Hyderabad,Kukatpally,1675,3,3,11063000.0
+Chennai,Pallavaram,1014,2,2,7839000.0
+Delhi,Dwarka,821,2,2,6066000.0
+Mumbai,Chembur,1762,3,3,25716000.0
+Mumbai,Worli,1391,3,3,35874000.0
+Delhi,Uttam Nagar,959,2,2,4579000.0
+Delhi,Greater Kailash,1649,3,3,27177000.0
+Delhi,Greater Kailash,727,2,1,11148000.0
+Hyderabad,Kondapur,1333,3,3,11159000.0
+Delhi,Rohini,3459,5,4,39131000.0
+Hyderabad,Kondapur,858,2,1,6742000.0
+Mumbai,Lower Parel,978,2,2,22456000.0
+Mumbai,Andheri East,822,2,2,13597000.0
+Mumbai,Chembur,2590,4,4,44814000.0
+Chennai,OMR,1264,3,2,14699000.0
+Hyderabad,HITEC City,2560,4,4,24739000.0
+Mumbai,Chembur,451,1,1,5418000.0
+Bangalore,Whitefield,682,1,1,8850000.0
+Delhi,Dwarka,1415,3,3,13486000.0
+Chennai,Pallavaram,789,2,2,5866000.0
+Delhi,Dwarka,1594,3,2,16281000.0
+Bangalore,Sarjapur Road,1041,2,1,12764000.0
+Bangalore,Whitefield,1725,3,2,26672000.0
+Delhi,Greater Kailash,1399,3,3,25741000.0
+Hyderabad,Miyapur,1948,4,4,12586000.0
+Hyderabad,Kukatpally,979,2,2,5157000.0
+Bangalore,Yelahanka,3532,5,5,46580000.0
+Bangalore,Sarjapur Road,2901,5,5,43340000.0
+Hyderabad,Miyapur,999,2,2,5355000.0
+Mumbai,Andheri East,1674,3,3,24627000.0
+Delhi,Dwarka,1076,2,1,9760000.0
+Hyderabad,Kondapur,1643,4,4,13082000.0
+Delhi,Dwarka,751,2,1,6942000.0
+Delhi,Dwarka,1162,3,3,12295000.0
+Hyderabad,Miyapur,492,1,1,2529000.0
+Bangalore,Yelahanka,1187,2,2,11360000.0
+Mumbai,Worli,1548,3,2,39829000.0
+Delhi,Greater Kailash,926,2,2,14039000.0
+Delhi,Rohini,939,2,2,7539000.0
+Delhi,Dwarka,874,2,1,8478000.0
+Mumbai,Lower Parel,2522,4,4,66093000.0
+Chennai,Ambattur,604,1,1,4169000.0
+Mumbai,Worli,893,2,2,22515000.0
+Chennai,Chromepet,1485,3,2,11526000.0
+Chennai,Chromepet,945,2,2,7825000.0
+Chennai,Ambattur,407,1,1,2761000.0
+Mumbai,Borivali,930,2,2,11526000.0
+Hyderabad,Kukatpally,2165,4,4,16288000.0
+Bangalore,Hebbal,1687,3,3,28394000.0
+Hyderabad,Miyapur,1144,3,2,7601000.0
+Bangalore,Whitefield,1640,3,3,21457000.0
+Bangalore,Hebbal,718,2,2,12881000.0
+Bangalore,Yelahanka,3449,5,4,36448000.0
+Chennai,Medavakkam,775,2,1,7206000.0
+Bangalore,Whitefield,1091,2,2,14372000.0
+Chennai,OMR,1262,3,3,15688000.0
+Bangalore,Electronic City,2478,4,4,28205000.0
+Delhi,Rohini,1366,3,3,11601000.0
+Mumbai,Andheri East,2735,4,4,52304000.0
+Delhi,Rohini,2750,5,5,25816000.0
+Chennai,OMR,1366,3,3,15090000.0
+Hyderabad,Miyapur,1931,4,4,10612000.0
+Mumbai,Andheri East,1029,2,2,17328000.0
+Chennai,Chromepet,687,1,1,4782000.0
+Bangalore,Electronic City,906,2,2,9210000.0
+Bangalore,Whitefield,843,2,2,11480000.0
+Bangalore,Whitefield,880,2,2,11686000.0
+Chennai,Chromepet,1772,3,3,13961000.0
+Chennai,Pallavaram,744,2,1,6226000.0
+Delhi,Dwarka,981,2,1,8883000.0
+Hyderabad,Gachibowli,986,2,2,7415000.0
+Mumbai,Lower Parel,910,2,2,18811000.0
+Chennai,Pallavaram,1142,2,2,8657000.0
+Hyderabad,Kondapur,2764,4,4,20300000.0
+Bangalore,Yelahanka,1065,2,1,10113000.0
+Mumbai,Borivali,619,1,1,7397000.0
+Delhi,Rohini,1409,3,3,11988000.0
+Chennai,OMR,1389,3,3,15600000.0
+Mumbai,Chembur,585,1,1,8471000.0
+Hyderabad,HITEC City,1033,2,1,9543000.0
+Bangalore,Whitefield,1758,3,2,25039000.0
+Delhi,Greater Kailash,1733,3,2,28115000.0
+Chennai,OMR,1085,2,2,10373000.0
+Bangalore,Whitefield,494,1,1,5921000.0
+Chennai,OMR,1551,3,2,17030000.0
+Hyderabad,Gachibowli,443,1,1,3378000.0
+Bangalore,Electronic City,819,2,1,7576000.0
+Mumbai,Lower Parel,1692,3,2,33472000.0
+Bangalore,Electronic City,1594,3,2,16542000.0
+Chennai,Ambattur,1145,2,2,7835000.0
+Hyderabad,Kondapur,1711,3,3,12759000.0
+Hyderabad,Kondapur,440,1,1,3072000.0
+Hyderabad,HITEC City,1402,3,3,15373000.0
+Chennai,Medavakkam,1618,3,3,14332000.0
+Hyderabad,Miyapur,1269,3,3,7241000.0
+Delhi,Rohini,1292,3,2,10464000.0
+Bangalore,Whitefield,886,2,2,11788000.0
+Hyderabad,Kukatpally,1177,2,2,6498000.0
+Bangalore,Sarjapur Road,1477,3,3,18793000.0
+Mumbai,Chembur,2410,4,4,40414000.0
+Hyderabad,Miyapur,1745,3,2,10016000.0
+Bangalore,Whitefield,1176,2,2,13597000.0
+Hyderabad,Gachibowli,665,1,1,4457000.0
+Hyderabad,HITEC City,1309,3,3,11995000.0
+Hyderabad,Kukatpally,1119,3,3,6256000.0
+Bangalore,Sarjapur Road,1133,3,3,14501000.0
+Chennai,Medavakkam,1779,3,3,16401000.0
+Hyderabad,Kukatpally,1073,2,2,6116000.0
+Hyderabad,Miyapur,3276,5,5,22759000.0
+Chennai,Medavakkam,1758,3,3,14943000.0
+Bangalore,Yelahanka,759,2,2,7373000.0
+Chennai,Chromepet,1189,2,1,6925000.0
+Hyderabad,HITEC City,1777,3,3,15418000.0
+Bangalore,Sarjapur Road,1694,3,3,25054000.0
+Bangalore,Electronic City,1549,3,3,15867000.0
+Mumbai,Borivali,1432,3,2,19662000.0
+Hyderabad,Kondapur,2077,4,4,17690000.0
+Bangalore,Hebbal,741,2,2,12009000.0
+Mumbai,Borivali,587,1,1,5676000.0
+Hyderabad,Miyapur,2255,4,4,14713000.0
+Mumbai,Borivali,1050,2,2,12439000.0
+Delhi,Saket,1112,3,3,13638000.0
+Hyderabad,Miyapur,1620,3,3,9397000.0
+Bangalore,Hebbal,1099,2,2,16530000.0
+Hyderabad,Miyapur,1134,2,2,5127000.0
+Bangalore,Yelahanka,1061,2,2,10677000.0
+Delhi,Saket,1757,3,3,23125000.0
+Delhi,Greater Kailash,1605,3,3,22302000.0
+Hyderabad,Gachibowli,1238,3,3,10518000.0
+Chennai,Medavakkam,1225,3,3,10510000.0
+Bangalore,Hebbal,2795,4,4,49534000.0
+Bangalore,Sarjapur Road,945,2,1,12049000.0
+Delhi,Rohini,2617,4,4,22981000.0
+Hyderabad,Kondapur,785,2,1,6088000.0
+Bangalore,Electronic City,1113,2,2,10879000.0
+Chennai,Medavakkam,1017,2,1,8550000.0
+Hyderabad,Kukatpally,2085,4,4,15018000.0
+Bangalore,Hebbal,791,2,2,11535000.0
+Chennai,OMR,1261,3,3,15233000.0
+Bangalore,Electronic City,1715,3,3,16854000.0
+Hyderabad,Kukatpally,430,1,1,2204000.0
+Mumbai,Worli,1965,4,4,54244000.0
+Hyderabad,Miyapur,1241,3,3,7386000.0
+Hyderabad,Miyapur,1547,3,3,8360000.0
+Delhi,Rohini,1015,2,1,6916000.0
+Delhi,Saket,1133,2,2,14189000.0
+Delhi,Greater Kailash,859,2,2,14403000.0
+Bangalore,Hebbal,1831,4,4,34797000.0
+Mumbai,Chembur,2577,4,4,39314000.0
+Chennai,OMR,2389,4,4,29336000.0
+Hyderabad,HITEC City,1280,3,3,12289000.0
+Delhi,Rohini,1122,3,3,9177000.0
+Hyderabad,Miyapur,1736,3,3,10481000.0
+Hyderabad,Gachibowli,2665,4,4,22189000.0
+Chennai,Pallavaram,1081,2,2,8076000.0
+Bangalore,Whitefield,775,2,1,9673000.0
+Delhi,Dwarka,1481,3,2,17060000.0
+Mumbai,Chembur,871,2,2,12374000.0
+Hyderabad,Gachibowli,1347,3,3,11539000.0
+Mumbai,Worli,2047,4,4,51861000.0
+Hyderabad,Kondapur,1383,3,3,10713000.0
+Bangalore,Hebbal,1755,3,3,29223000.0
+Bangalore,Yelahanka,1276,3,2,11150000.0
+Bangalore,Hebbal,1015,2,2,14323000.0
+Bangalore,Hebbal,1688,3,3,26781000.0
+Delhi,Saket,3680,5,5,55727000.0
+Hyderabad,Miyapur,775,2,2,4215000.0
+Mumbai,Worli,1478,3,2,39847000.0
+Delhi,Uttam Nagar,2300,4,4,13500000.0
+Chennai,OMR,1603,3,3,16144000.0
+Mumbai,Andheri East,2095,4,4,36296000.0
+Bangalore,Whitefield,679,1,1,9434000.0
+Chennai,Ambattur,865,2,1,6518000.0
+Delhi,Greater Kailash,1988,4,4,35144000.0
+Delhi,Dwarka,1550,3,3,14347000.0
+Mumbai,Andheri East,937,2,2,17011000.0
+Bangalore,Sarjapur Road,1170,2,1,11694000.0
+Hyderabad,Kukatpally,1197,3,3,6834000.0
+Bangalore,Hebbal,1390,3,3,24276000.0
+Hyderabad,Gachibowli,1649,3,2,14383000.0
+Delhi,Rohini,888,2,2,6243000.0
+Delhi,Uttam Nagar,2433,4,4,14477000.0
+Delhi,Rohini,1647,3,2,14462000.0
+Delhi,Greater Kailash,1861,4,3,36847000.0
+Bangalore,Whitefield,1045,2,2,14527000.0
+Hyderabad,Kondapur,530,1,1,3837000.0
+Hyderabad,Gachibowli,987,2,1,7664000.0
+Chennai,OMR,659,1,1,5926000.0
+Bangalore,Electronic City,415,1,1,3385000.0
+Mumbai,Worli,880,2,2,22371000.0
+Bangalore,Hebbal,1217,3,2,19736000.0
+Mumbai,Worli,1978,4,4,58440000.0
+Chennai,Ambattur,793,2,2,6434000.0
+Hyderabad,Kondapur,1056,2,2,7977000.0
+Delhi,Dwarka,1683,3,3,17058000.0
+Mumbai,Andheri East,1730,3,3,35332000.0
+Hyderabad,Kondapur,1596,3,2,12940000.0
+Chennai,Medavakkam,1078,2,2,9148000.0
+Bangalore,Whitefield,954,2,2,12952000.0
+Chennai,Ambattur,1782,3,2,14586000.0
+Bangalore,Yelahanka,1765,3,3,22781000.0
+Delhi,Dwarka,760,2,2,7462000.0
+Mumbai,Borivali,1017,2,2,12861000.0
+Chennai,Pallavaram,438,1,1,2580000.0
+Chennai,Chromepet,440,1,1,3099000.0
+Bangalore,Hebbal,1104,2,2,19296000.0
+Chennai,OMR,1751,3,3,19714000.0
+Bangalore,Electronic City,2436,4,4,24024000.0
+Chennai,Chromepet,489,1,1,3469000.0
+Mumbai,Borivali,596,1,1,6592000.0
+Chennai,Chromepet,858,2,2,6642000.0
+Bangalore,Hebbal,657,1,1,9352000.0
+Mumbai,Borivali,1648,4,3,27162000.0
+Delhi,Rohini,863,2,2,6606000.0
+Mumbai,Chembur,1658,4,4,25519000.0
+Mumbai,Andheri East,2155,4,3,46741000.0
+Hyderabad,Miyapur,757,2,2,4077000.0
+Mumbai,Chembur,550,1,1,7121000.0
+Delhi,Rohini,448,1,1,3338000.0
+Mumbai,Andheri East,748,2,2,12407000.0
+Mumbai,Lower Parel,560,1,1,11517000.0
+Mumbai,Andheri East,1435,3,2,25327000.0
+Delhi,Uttam Nagar,1126,2,2,6736000.0
+Bangalore,Whitefield,521,1,1,5854000.0
+Chennai,Pallavaram,1290,3,3,11129000.0
+Chennai,Medavakkam,1719,3,2,14852000.0
+Hyderabad,Gachibowli,711,2,1,5746000.0
+Hyderabad,Kukatpally,934,2,2,5167000.0
+Delhi,Rohini,856,2,2,7054000.0
+Hyderabad,Miyapur,1159,2,1,5751000.0
+Bangalore,Sarjapur Road,2308,4,4,31973000.0
+Chennai,Pallavaram,525,1,1,3489000.0
+Chennai,Ambattur,899,2,1,6251000.0
+Chennai,Ambattur,1364,3,3,12303000.0
+Chennai,Medavakkam,1024,2,1,7840000.0
+Mumbai,Chembur,1182,2,1,16605000.0
+Mumbai,Andheri East,1627,3,3,33228000.0
+Bangalore,Yelahanka,805,2,2,7410000.0
+Delhi,Saket,1173,2,2,14236000.0
+Hyderabad,HITEC City,1073,2,2,8629000.0
+Hyderabad,Kondapur,725,2,2,5631000.0
+Hyderabad,Kondapur,999,2,2,6678000.0
+Mumbai,Borivali,870,2,2,9999000.0
+Chennai,Ambattur,738,2,2,4896000.0
+Chennai,Medavakkam,1192,3,3,10491000.0
+Delhi,Saket,943,2,2,13464000.0
+Mumbai,Lower Parel,1085,2,2,20762000.0
+Delhi,Rohini,751,2,2,5194000.0
+Delhi,Saket,2512,5,5,39674000.0
+Delhi,Dwarka,1676,4,3,16708000.0
+Chennai,OMR,1555,3,2,18572000.0
+Bangalore,Sarjapur Road,2245,4,4,35726000.0
+Bangalore,Whitefield,829,2,1,12663000.0
+Delhi,Uttam Nagar,1122,2,1,6189000.0
+Chennai,OMR,473,1,1,5122000.0
+Bangalore,Whitefield,1144,2,1,14917000.0
+Delhi,Saket,731,2,2,10294000.0
+Mumbai,Andheri East,2751,4,4,50950000.0
+Delhi,Rohini,1654,3,2,13780000.0
+Hyderabad,Gachibowli,1714,3,3,15407000.0
+Chennai,Pallavaram,556,1,1,3769000.0
+Mumbai,Borivali,567,1,1,7026000.0
+Bangalore,Sarjapur Road,614,1,1,6383000.0
+Bangalore,Yelahanka,1131,2,2,11099000.0
+Mumbai,Lower Parel,756,2,2,15486000.0
+Bangalore,Yelahanka,1173,3,3,10311000.0
+Delhi,Rohini,619,1,1,4331000.0
+Hyderabad,Gachibowli,926,2,2,8292000.0
+Mumbai,Borivali,827,2,2,8700000.0
+Mumbai,Chembur,1815,4,3,28052000.0
+Hyderabad,HITEC City,2302,4,4,22430000.0
+Delhi,Greater Kailash,1292,3,3,21524000.0
+Hyderabad,Miyapur,1116,2,1,5732000.0
+Mumbai,Chembur,425,1,1,5082000.0
+Mumbai,Andheri East,777,2,2,11526000.0
+Mumbai,Borivali,771,2,2,9163000.0
+Hyderabad,Kukatpally,3881,5,5,25825000.0
+Delhi,Rohini,1869,4,4,13317000.0
+Mumbai,Worli,2764,4,3,67756000.0
+Chennai,Pallavaram,927,2,2,7159000.0
+Mumbai,Chembur,1097,2,2,16656000.0
+Chennai,Ambattur,1002,2,2,7518000.0
+Chennai,Medavakkam,1007,2,2,8447000.0
+Bangalore,Sarjapur Road,1308,3,3,20040000.0
+Chennai,Medavakkam,1889,4,4,15249000.0
+Delhi,Saket,1756,3,2,25853000.0
+Chennai,Pallavaram,1188,3,3,9008000.0
+Delhi,Rohini,1394,3,3,12154000.0
+Delhi,Dwarka,2578,4,4,28345000.0
+Mumbai,Andheri East,2024,4,3,38949000.0
+Chennai,Chromepet,2405,4,3,18948000.0
+Hyderabad,Miyapur,886,2,1,4666000.0
+Chennai,Chromepet,1726,3,3,15491000.0
+Chennai,Pallavaram,1251,3,3,10765000.0
+Mumbai,Chembur,540,1,1,6681000.0
+Delhi,Dwarka,1281,3,2,13387000.0
+Chennai,Ambattur,1618,3,2,14262000.0
+Bangalore,Sarjapur Road,1848,4,3,21520000.0
+Delhi,Saket,815,2,1,10024000.0
+Chennai,Ambattur,1495,3,3,12556000.0
+Chennai,OMR,1109,3,3,12311000.0
+Delhi,Uttam Nagar,731,2,2,4266000.0
+Bangalore,Electronic City,2013,4,4,20887000.0
+Bangalore,Whitefield,1719,3,2,22393000.0
+Bangalore,Hebbal,2230,4,3,35844000.0
+Delhi,Rohini,806,2,2,6814000.0
+Hyderabad,Kukatpally,1546,3,3,9189000.0
+Delhi,Uttam Nagar,559,1,1,2555000.0
+Bangalore,Hebbal,992,2,1,15867000.0
+Mumbai,Borivali,2808,5,5,42157000.0
+Delhi,Dwarka,1765,3,3,19125000.0
+Hyderabad,Gachibowli,3245,5,4,34021000.0
+Bangalore,Yelahanka,780,2,1,7262000.0
+Hyderabad,Miyapur,1591,3,3,8978000.0
+Mumbai,Andheri East,1687,3,3,31161000.0
+Hyderabad,Gachibowli,868,2,2,6163000.0
+Chennai,Ambattur,2637,4,4,26089000.0
+Delhi,Saket,1430,3,2,22505000.0
+Hyderabad,HITEC City,723,2,2,6195000.0
+Mumbai,Chembur,728,2,1,10317000.0
+Bangalore,Whitefield,780,2,2,10243000.0
+Delhi,Rohini,1544,3,3,14020000.0
+Hyderabad,Miyapur,1276,3,2,7237000.0
+Delhi,Saket,762,2,2,11813000.0
+Chennai,Chromepet,2673,4,4,19958000.0
+Mumbai,Worli,1296,3,2,27616000.0
+Chennai,Pallavaram,1539,3,2,13235000.0
+Hyderabad,Kukatpally,1032,2,1,6412000.0
+Hyderabad,Gachibowli,1069,2,2,8076000.0
+Chennai,OMR,1632,3,3,21813000.0
+Chennai,Medavakkam,920,2,2,7979000.0
+Bangalore,Hebbal,704,2,1,9824000.0
+Mumbai,Chembur,1070,2,1,15993000.0
+Mumbai,Worli,725,2,2,16993000.0
+Chennai,Medavakkam,1636,3,2,14402000.0
+Chennai,OMR,1008,2,2,9227000.0
+Bangalore,Whitefield,872,2,2,10882000.0
+Bangalore,Hebbal,1106,2,2,17092000.0
+Mumbai,Worli,975,2,2,25278000.0
+Delhi,Saket,1341,3,2,18681000.0
+Bangalore,Whitefield,2289,4,3,37322000.0
+Hyderabad,Miyapur,1365,3,3,8144000.0
+Chennai,Medavakkam,1038,2,1,9072000.0
+Mumbai,Worli,512,1,1,11336000.0
+Bangalore,Whitefield,780,2,2,10603000.0
+Delhi,Dwarka,2574,4,4,26836000.0
+Bangalore,Electronic City,737,2,2,6873000.0
+Chennai,Chromepet,1089,2,2,8912000.0
+Chennai,Pallavaram,2692,4,4,24429000.0
+Mumbai,Chembur,1214,3,3,18640000.0
+Delhi,Uttam Nagar,1180,2,2,5920000.0
+Delhi,Uttam Nagar,432,1,1,2168000.0
+Delhi,Greater Kailash,1128,2,1,18167000.0
+Mumbai,Worli,1885,4,3,50803000.0
+Delhi,Dwarka,1573,3,3,14248000.0
+Delhi,Rohini,1276,3,3,12053000.0
+Mumbai,Lower Parel,725,2,2,17342000.0
+Chennai,Ambattur,761,2,1,5634000.0
+Hyderabad,Kukatpally,1463,3,3,9482000.0
+Chennai,Ambattur,3509,5,5,29295000.0
+Bangalore,Yelahanka,1237,3,3,12668000.0
+Hyderabad,HITEC City,815,2,2,7241000.0
+Mumbai,Lower Parel,1451,3,3,34612000.0
+Bangalore,Electronic City,734,2,2,6929000.0
+Bangalore,Yelahanka,485,1,1,4885000.0
+Mumbai,Borivali,571,1,1,6392000.0
+Chennai,Chromepet,1028,2,2,7066000.0
+Delhi,Uttam Nagar,873,2,1,4372000.0
+Delhi,Uttam Nagar,1370,3,3,7481000.0
+Mumbai,Lower Parel,889,2,2,17870000.0
+Mumbai,Lower Parel,956,2,2,20775000.0
+Hyderabad,Miyapur,1118,3,3,6192000.0
+Bangalore,Electronic City,981,2,2,9076000.0
+Delhi,Uttam Nagar,2438,4,4,12936000.0
+Mumbai,Andheri East,1976,4,4,35541000.0
+Mumbai,Worli,1422,3,3,37630000.0
+Bangalore,Yelahanka,890,2,2,8574000.0
+Hyderabad,HITEC City,1559,3,3,16010000.0
+Delhi,Dwarka,1233,3,2,12632000.0
+Delhi,Rohini,1572,3,2,14099000.0
+Hyderabad,Kukatpally,1162,2,2,7081000.0
+Mumbai,Andheri East,400,1,1,6281000.0
+Delhi,Uttam Nagar,3237,5,5,22734000.0
+Chennai,Ambattur,1155,3,3,8603000.0
+Mumbai,Lower Parel,1568,3,3,34171000.0
+Hyderabad,Miyapur,1333,3,3,7358000.0
+Chennai,Chromepet,574,1,1,3023000.0
+Chennai,Pallavaram,1254,3,3,10108000.0
+Delhi,Greater Kailash,1318,3,2,21197000.0
+Chennai,Chromepet,773,2,2,5803000.0
+Mumbai,Worli,815,2,1,20358000.0
+Bangalore,Sarjapur Road,446,1,1,4406000.0
+Delhi,Uttam Nagar,1033,2,1,6000000.0
+Bangalore,Yelahanka,589,1,1,5044000.0
+Mumbai,Chembur,1205,3,2,17586000.0
+Chennai,OMR,2219,4,4,29744000.0
+Mumbai,Andheri East,2168,4,4,42492000.0
+Chennai,Ambattur,1265,3,3,8605000.0
+Bangalore,Yelahanka,1769,3,3,19082000.0
+Bangalore,Yelahanka,1772,4,4,21602000.0
+Chennai,Pallavaram,2322,4,3,20771000.0
+Chennai,Pallavaram,902,2,2,6356000.0
+Bangalore,Yelahanka,3554,5,4,41011000.0
+Chennai,OMR,762,2,2,8777000.0
+Delhi,Rohini,1060,2,2,8471000.0
+Mumbai,Worli,776,2,1,15873000.0
+Chennai,Chromepet,1085,2,2,8016000.0
+Hyderabad,Kondapur,455,1,1,2724000.0
+Chennai,Pallavaram,2371,4,4,18239000.0
+Delhi,Uttam Nagar,1376,3,3,7642000.0
+Bangalore,Whitefield,1486,3,2,21000000.0
+Chennai,Medavakkam,715,2,1,6535000.0
+Delhi,Uttam Nagar,1727,3,3,10525000.0
+Hyderabad,Kondapur,423,1,1,2474000.0
+Chennai,Pallavaram,770,2,1,5991000.0
+Hyderabad,Gachibowli,1056,2,1,6329000.0
+Chennai,Medavakkam,1758,3,3,15426000.0
+Bangalore,Whitefield,3652,5,5,63439000.0
+Chennai,OMR,1174,3,3,12616000.0
+Delhi,Greater Kailash,2639,5,4,43335000.0
+Delhi,Greater Kailash,489,1,1,7183000.0
+Delhi,Saket,1671,4,4,22549000.0
+Chennai,OMR,1121,3,2,12055000.0
+Bangalore,Hebbal,1996,4,3,30739000.0
+Bangalore,Electronic City,1088,2,1,10166000.0
+Bangalore,Whitefield,1572,3,3,25767000.0
+Chennai,Chromepet,1749,4,3,14890000.0
+Chennai,Ambattur,1792,4,4,14845000.0
+Chennai,Medavakkam,1265,3,3,12402000.0
+Mumbai,Andheri East,1439,3,2,21998000.0
+Chennai,Pallavaram,1737,3,2,12557000.0
+Bangalore,Whitefield,976,2,1,12906000.0
+Mumbai,Worli,1164,3,3,29362000.0
+Hyderabad,HITEC City,1502,3,2,11826000.0
+Delhi,Dwarka,456,1,1,3335000.0
+Chennai,Chromepet,1521,3,3,14485000.0
+Chennai,Medavakkam,759,2,1,6120000.0
+Chennai,OMR,1329,3,2,15300000.0
+Mumbai,Lower Parel,965,2,2,23295000.0
+Hyderabad,HITEC City,1183,2,1,10320000.0
+Hyderabad,HITEC City,795,2,1,6546000.0
+Hyderabad,Kukatpally,808,2,2,4671000.0
+Chennai,Pallavaram,853,2,2,6135000.0
+Bangalore,Yelahanka,775,2,2,7933000.0
+Bangalore,Whitefield,1230,3,3,18826000.0
+Chennai,Ambattur,2522,4,3,18935000.0
+Hyderabad,Kondapur,1124,3,3,8877000.0
+Hyderabad,Gachibowli,2646,4,4,23518000.0
+Chennai,Medavakkam,1059,2,2,8259000.0
+Chennai,Pallavaram,648,1,1,4850000.0
+Chennai,Pallavaram,2513,4,4,19061000.0
+Delhi,Dwarka,1326,3,2,14666000.0
+Hyderabad,Gachibowli,1515,3,3,13154000.0
+Chennai,Chromepet,1169,2,2,8782000.0
+Bangalore,Hebbal,824,2,1,13140000.0
+Delhi,Rohini,1063,2,2,9209000.0
+Hyderabad,HITEC City,1051,2,2,10363000.0
+Bangalore,Whitefield,1478,3,3,19542000.0
+Chennai,OMR,1179,2,2,13864000.0
+Bangalore,Whitefield,1486,3,3,19790000.0
+Delhi,Uttam Nagar,612,1,1,2523000.0
+Bangalore,Yelahanka,631,1,1,5491000.0
+Delhi,Dwarka,807,2,2,6403000.0
+Chennai,Ambattur,1708,4,4,15433000.0
+Hyderabad,Gachibowli,1116,2,1,8774000.0
+Hyderabad,Gachibowli,2584,4,3,24655000.0
+Bangalore,Yelahanka,801,2,2,8839000.0
+Mumbai,Lower Parel,1667,3,3,36723000.0
+Delhi,Saket,1136,3,3,15693000.0
+Bangalore,Electronic City,1722,3,3,14949000.0
+Chennai,Medavakkam,1069,2,1,9258000.0
+Mumbai,Borivali,1390,3,2,19458000.0
+Delhi,Rohini,713,2,1,5178000.0
+Bangalore,Sarjapur Road,506,1,1,5461000.0
+Mumbai,Lower Parel,1391,3,3,34314000.0
+Chennai,OMR,1586,3,3,18247000.0
+Delhi,Uttam Nagar,3618,5,5,24711000.0
+Mumbai,Borivali,1336,3,3,17026000.0
+Bangalore,Yelahanka,434,1,1,3941000.0
+Delhi,Saket,1050,2,2,12305000.0
+Mumbai,Lower Parel,742,2,2,17289000.0
+Hyderabad,Gachibowli,822,2,1,5524000.0
+Hyderabad,Miyapur,760,2,1,4022000.0
+Bangalore,Sarjapur Road,1989,4,4,28766000.0
+Delhi,Saket,861,2,2,11542000.0
+Hyderabad,Kondapur,1112,2,2,9402000.0
+Chennai,Chromepet,589,1,1,4075000.0
+Delhi,Saket,816,2,2,10003000.0
+Bangalore,Sarjapur Road,1715,3,3,18307000.0
+Chennai,Pallavaram,700,2,2,4944000.0
+Chennai,Chromepet,950,2,1,5890000.0
+Chennai,OMR,560,1,1,5384000.0
+Chennai,OMR,525,1,1,5547000.0
+Bangalore,Sarjapur Road,1649,3,3,22544000.0
+Bangalore,Electronic City,1106,3,3,11505000.0
+Delhi,Rohini,1179,2,2,9634000.0
+Delhi,Uttam Nagar,1311,3,3,7235000.0
+Chennai,Chromepet,1540,3,3,14800000.0
+Delhi,Uttam Nagar,2189,4,4,15216000.0
+Delhi,Uttam Nagar,878,2,1,4735000.0
+Delhi,Rohini,717,2,1,5714000.0
+Chennai,Chromepet,750,2,2,6062000.0
+Delhi,Rohini,810,2,2,5351000.0
+Hyderabad,Kukatpally,785,2,2,3639000.0
+Mumbai,Andheri East,854,2,2,14474000.0
+Bangalore,Whitefield,2587,5,4,42741000.0
+Delhi,Saket,2558,4,4,32752000.0
+Bangalore,Yelahanka,774,2,1,6732000.0
+Chennai,OMR,993,2,2,9799000.0
+Delhi,Greater Kailash,875,2,2,13079000.0
+Delhi,Greater Kailash,902,2,1,11495000.0
+Mumbai,Chembur,1536,3,2,21990000.0
+Chennai,Ambattur,429,1,1,3011000.0
+Hyderabad,HITEC City,2566,4,4,29410000.0
+Chennai,Medavakkam,462,1,1,3453000.0
+Bangalore,Sarjapur Road,1363,3,3,18058000.0
+Hyderabad,Miyapur,707,2,2,3695000.0
+Mumbai,Lower Parel,800,2,2,16823000.0
+Delhi,Dwarka,987,2,2,9229000.0
+Delhi,Saket,2330,4,4,32930000.0
+Hyderabad,Kukatpally,1111,3,2,7239000.0
+Hyderabad,Miyapur,1173,2,1,5995000.0
+Mumbai,Lower Parel,1407,3,3,36191000.0
+Chennai,Chromepet,743,2,2,5987000.0
+Bangalore,Hebbal,1444,3,3,22484000.0
+Chennai,Ambattur,1760,3,3,16302000.0
+Delhi,Saket,1792,3,3,24063000.0
+Chennai,OMR,834,2,2,9286000.0
+Delhi,Uttam Nagar,2077,4,4,13299000.0
+Mumbai,Andheri East,1101,3,3,20032000.0
+Chennai,Pallavaram,1205,3,2,8689000.0
+Mumbai,Borivali,1445,3,2,20498000.0
+Delhi,Greater Kailash,1316,3,3,22368000.0
+Mumbai,Chembur,978,2,1,14251000.0
+Delhi,Saket,1520,3,3,20546000.0
+Mumbai,Andheri East,2444,4,4,50527000.0
+Delhi,Uttam Nagar,890,2,2,5106000.0
+Mumbai,Worli,454,1,1,9620000.0
+Bangalore,Sarjapur Road,926,2,2,11468000.0
+Mumbai,Lower Parel,1799,3,2,43299000.0
+Chennai,Ambattur,602,1,1,4088000.0
+Delhi,Saket,1501,3,3,20953000.0
+Chennai,Ambattur,1192,3,3,10972000.0
+Hyderabad,Gachibowli,1101,2,2,8858000.0
+Hyderabad,Gachibowli,981,2,2,8063000.0
+Hyderabad,Kukatpally,1309,3,3,7094000.0
+Bangalore,Whitefield,1647,3,3,22223000.0
+Delhi,Uttam Nagar,1275,3,2,6902000.0
+Delhi,Rohini,1089,2,1,9227000.0
+Bangalore,Electronic City,1299,3,3,13840000.0
+Bangalore,Whitefield,1663,3,2,23472000.0
+Mumbai,Chembur,1694,3,2,22470000.0
+Mumbai,Chembur,1728,3,3,28043000.0
+Mumbai,Worli,776,2,2,17998000.0
+Bangalore,Yelahanka,2556,4,3,25419000.0
+Chennai,OMR,469,1,1,4750000.0
+Mumbai,Lower Parel,1249,3,3,31086000.0
+Hyderabad,Miyapur,412,1,1,2189000.0
+Hyderabad,Kukatpally,1777,3,3,10842000.0
+Bangalore,Hebbal,1124,2,1,15336000.0
+Chennai,Pallavaram,1011,2,2,8045000.0
+Hyderabad,Kukatpally,1695,3,3,10239000.0
+Mumbai,Lower Parel,793,2,2,18467000.0
+Hyderabad,Miyapur,555,1,1,2692000.0
+Delhi,Uttam Nagar,1077,2,1,5803000.0
+Bangalore,Hebbal,551,1,1,5930000.0
+Hyderabad,HITEC City,1476,3,2,14691000.0
+Mumbai,Borivali,3637,5,4,53605000.0
+Hyderabad,Miyapur,1141,3,3,5731000.0
+Chennai,Ambattur,1283,3,3,10486000.0
+Delhi,Saket,2272,4,4,40496000.0
+Chennai,OMR,1758,3,3,20168000.0
+Hyderabad,HITEC City,1143,2,2,10016000.0
+Delhi,Uttam Nagar,1205,3,3,7169000.0
+Mumbai,Lower Parel,882,2,2,20664000.0
+Bangalore,Electronic City,2581,4,4,29679000.0
+Mumbai,Worli,1456,3,2,42663000.0
+Mumbai,Borivali,2139,4,4,32643000.0
+Hyderabad,Kukatpally,2674,5,5,23027000.0
+Hyderabad,Kondapur,1530,3,3,12739000.0
+Delhi,Rohini,827,2,2,6532000.0
+Hyderabad,Gachibowli,2041,4,4,16412000.0
+Chennai,OMR,736,2,1,8137000.0
+Hyderabad,HITEC City,1525,3,3,14461000.0
+Delhi,Rohini,1364,3,3,12377000.0
+Delhi,Uttam Nagar,1541,3,3,9227000.0
+Hyderabad,Kondapur,1549,3,3,13069000.0
+Bangalore,Yelahanka,759,2,2,6918000.0
+Hyderabad,Gachibowli,1668,4,4,14895000.0
+Mumbai,Lower Parel,755,2,2,14223000.0
+Bangalore,Sarjapur Road,825,2,1,9884000.0
+Mumbai,Chembur,671,1,1,8374000.0
+Hyderabad,Kondapur,1139,2,2,8938000.0
+Mumbai,Borivali,1057,2,1,13210000.0
+Delhi,Dwarka,1379,3,2,14974000.0
+Delhi,Saket,1310,3,3,17660000.0
+Chennai,OMR,1127,2,1,14404000.0
+Mumbai,Lower Parel,1116,3,3,24393000.0
+Delhi,Dwarka,3132,5,4,37171000.0
+Bangalore,Sarjapur Road,1231,3,3,18286000.0
+Chennai,Pallavaram,590,1,1,3730000.0
+Chennai,OMR,1533,3,3,17715000.0
+Hyderabad,Kukatpally,1754,3,3,11275000.0
+Hyderabad,Kondapur,2088,4,4,17550000.0
+Bangalore,Sarjapur Road,1114,3,2,12000000.0
+Hyderabad,HITEC City,917,2,1,7753000.0
+Bangalore,Electronic City,1681,4,4,18999000.0
+Chennai,Medavakkam,446,1,1,3138000.0
+Bangalore,Hebbal,1379,3,3,22652000.0
+Bangalore,Sarjapur Road,1170,2,2,14031000.0
+Bangalore,Sarjapur Road,1309,3,2,17256000.0
+Chennai,Medavakkam,1147,2,2,9018000.0
+Hyderabad,HITEC City,2474,4,4,26186000.0
+Mumbai,Borivali,906,2,2,10717000.0
+Mumbai,Lower Parel,803,2,1,15721000.0
+Mumbai,Lower Parel,1267,3,3,32222000.0
+Delhi,Saket,1740,3,3,23533000.0
+Mumbai,Lower Parel,624,1,1,13317000.0
+Delhi,Saket,1256,3,3,17813000.0
+Chennai,Pallavaram,772,2,1,4989000.0
+Mumbai,Worli,1043,2,1,25768000.0
+Delhi,Dwarka,759,2,2,6040000.0
+Mumbai,Lower Parel,1162,3,3,23111000.0
+Chennai,Ambattur,1186,2,1,8713000.0
+Mumbai,Worli,1107,3,3,31263000.0
+Hyderabad,Kukatpally,1450,3,3,8631000.0
+Chennai,OMR,1227,3,3,13499000.0
+Bangalore,Whitefield,914,2,2,13386000.0
+Hyderabad,Kukatpally,1778,4,4,12222000.0
+Chennai,OMR,640,1,1,5386000.0
+Mumbai,Worli,1182,3,3,29834000.0
+Mumbai,Andheri East,1102,2,1,19702000.0
+Delhi,Uttam Nagar,1137,2,2,7002000.0
+Delhi,Dwarka,3025,5,4,32142000.0
+Mumbai,Chembur,1597,3,3,24583000.0
+Hyderabad,Gachibowli,2157,4,4,18797000.0
+Chennai,Pallavaram,427,1,1,2377000.0
+Delhi,Saket,1350,3,3,16877000.0
+Mumbai,Worli,1039,2,1,25195000.0
+Hyderabad,Kondapur,1066,2,2,8439000.0
+Chennai,OMR,585,1,1,5584000.0
+Chennai,OMR,932,2,2,10076000.0
+Mumbai,Andheri East,1760,3,3,34498000.0
+Bangalore,Electronic City,1171,3,3,12767000.0
+Chennai,OMR,2573,4,4,34558000.0
+Mumbai,Borivali,1635,3,3,19767000.0
+Mumbai,Chembur,1083,2,2,17146000.0
+Chennai,OMR,1344,3,3,17160000.0
+Mumbai,Andheri East,3671,5,5,73179000.0
+Mumbai,Lower Parel,669,1,1,12242000.0
+Chennai,Chromepet,1117,2,2,6823000.0
+Delhi,Greater Kailash,1322,3,3,20443000.0
+Delhi,Greater Kailash,2413,4,4,45071000.0
+Mumbai,Andheri East,1167,3,3,20180000.0
+Mumbai,Borivali,862,2,2,12654000.0
+Mumbai,Borivali,2334,4,4,35855000.0
+Hyderabad,Kukatpally,1144,3,2,7438000.0
+Mumbai,Chembur,1422,3,3,22943000.0
+Hyderabad,Kondapur,1146,2,2,7769000.0
+Mumbai,Chembur,1165,2,2,17286000.0
+Mumbai,Worli,790,2,1,18017000.0
+Mumbai,Borivali,1884,4,4,31381000.0
+Delhi,Saket,1783,3,3,25621000.0
+Delhi,Saket,1059,2,2,13922000.0
+Mumbai,Worli,1495,3,3,39178000.0
+Chennai,Chromepet,1149,2,1,8921000.0
+Chennai,Medavakkam,1544,3,3,14435000.0
+Delhi,Greater Kailash,1675,3,3,28339000.0
+Mumbai,Worli,1788,3,3,48446000.0
+Delhi,Rohini,2393,4,3,22178000.0
+Delhi,Greater Kailash,612,1,1,7110000.0
+Delhi,Rohini,1093,2,2,9638000.0
+Hyderabad,Gachibowli,1006,2,2,8691000.0
+Mumbai,Lower Parel,753,2,2,18394000.0
+Chennai,Pallavaram,478,1,1,3153000.0
+Delhi,Rohini,1048,2,2,8458000.0
+Chennai,Chromepet,1784,3,2,15967000.0
+Bangalore,Yelahanka,1800,3,3,19990000.0
+Mumbai,Worli,998,2,2,23377000.0
+Delhi,Uttam Nagar,1432,3,3,7469000.0
+Delhi,Saket,1673,4,4,25074000.0
+Delhi,Rohini,1522,3,3,11129000.0
+Mumbai,Lower Parel,2223,4,3,54482000.0
+Hyderabad,Kondapur,1644,3,3,13314000.0
+Bangalore,Whitefield,1592,3,3,22050000.0
+Chennai,Chromepet,1540,3,2,12311000.0
+Bangalore,Yelahanka,2420,4,4,28716000.0
+Delhi,Uttam Nagar,1252,3,3,7672000.0
+Chennai,Ambattur,1607,3,2,12774000.0
+Mumbai,Chembur,1072,2,2,13529000.0
+Hyderabad,Gachibowli,1487,3,3,12139000.0
+Chennai,Chromepet,1773,3,3,13355000.0
+Bangalore,Sarjapur Road,2166,4,4,26322000.0
+Bangalore,Hebbal,1392,3,3,23562000.0
+Delhi,Uttam Nagar,1964,4,4,14176000.0
+Chennai,Ambattur,896,2,1,5324000.0
+Bangalore,Hebbal,777,2,1,13579000.0
+Delhi,Uttam Nagar,1486,3,3,8795000.0
+Delhi,Saket,2405,4,4,32908000.0
+Chennai,Chromepet,1611,4,4,14901000.0
+Delhi,Greater Kailash,806,2,2,10898000.0
+Mumbai,Chembur,2272,4,3,36001000.0
+Delhi,Greater Kailash,512,1,1,6998000.0
+Chennai,Chromepet,1122,2,2,7362000.0
+Mumbai,Worli,889,2,2,21419000.0
+Delhi,Uttam Nagar,1610,4,4,10075000.0
+Hyderabad,Gachibowli,1707,3,3,13183000.0
+Delhi,Greater Kailash,853,2,2,14741000.0
+Hyderabad,Miyapur,2951,5,5,18810000.0
+Chennai,Medavakkam,1143,2,2,8140000.0
+Mumbai,Lower Parel,1615,3,2,41923000.0
+Delhi,Dwarka,1432,3,2,12290000.0
+Bangalore,Yelahanka,573,1,1,5267000.0
+Chennai,Medavakkam,1414,3,2,11491000.0
+Hyderabad,Gachibowli,1171,3,3,9356000.0
+Bangalore,Sarjapur Road,1029,2,2,12046000.0
+Hyderabad,Kukatpally,1419,3,2,8719000.0
+Hyderabad,Miyapur,1158,3,3,7427000.0
+Hyderabad,Kukatpally,871,2,1,3776000.0
+Mumbai,Lower Parel,452,1,1,8925000.0
+Bangalore,Hebbal,2097,4,3,39590000.0
+Hyderabad,HITEC City,2220,4,3,18057000.0
+Bangalore,Hebbal,1861,4,4,32420000.0
+Mumbai,Lower Parel,1648,3,3,43937000.0
+Bangalore,Hebbal,2183,4,3,42498000.0
+Delhi,Greater Kailash,1118,2,1,18391000.0
+Mumbai,Chembur,776,2,2,11433000.0
+Chennai,Pallavaram,734,2,2,4682000.0
+Mumbai,Chembur,646,1,1,7745000.0
+Delhi,Greater Kailash,1047,2,1,14243000.0
+Hyderabad,Kondapur,1181,2,1,7732000.0
+Chennai,Pallavaram,2740,4,4,22139000.0
+Mumbai,Borivali,467,1,1,4914000.0
+Delhi,Rohini,1655,4,3,15930000.0
+Bangalore,Whitefield,1170,2,2,12580000.0
+Hyderabad,Miyapur,1092,2,1,5394000.0
+Chennai,Pallavaram,1601,3,3,13612000.0
+Bangalore,Yelahanka,650,1,1,5371000.0
+Bangalore,Hebbal,1035,2,1,15477000.0
+Hyderabad,Kukatpally,1176,2,1,5702000.0
+Chennai,Medavakkam,2116,4,3,17875000.0
+Hyderabad,Kukatpally,879,2,2,4913000.0
+Chennai,Medavakkam,873,2,2,5769000.0
+Chennai,Chromepet,2757,5,5,24195000.0
+Chennai,Ambattur,511,1,1,3373000.0
+Bangalore,Electronic City,1123,3,3,11240000.0
+Delhi,Uttam Nagar,1241,3,3,6745000.0
+Hyderabad,HITEC City,1757,3,3,17892000.0
+Chennai,Chromepet,769,2,2,5659000.0
+Mumbai,Andheri East,1008,2,1,15412000.0
+Bangalore,Hebbal,1451,3,3,19960000.0
+Chennai,Medavakkam,814,2,2,6888000.0
+Hyderabad,HITEC City,984,2,2,9001000.0
+Chennai,Chromepet,1336,3,2,10998000.0
+Hyderabad,Kondapur,1866,4,4,15675000.0
+Bangalore,Sarjapur Road,1062,2,2,11357000.0
+Bangalore,Sarjapur Road,738,2,2,8581000.0
+Mumbai,Worli,1093,2,2,27221000.0
+Delhi,Uttam Nagar,1342,3,2,7705000.0
+Delhi,Dwarka,1193,2,2,10225000.0
+Chennai,OMR,921,2,1,9805000.0
+Mumbai,Chembur,1118,2,1,15837000.0
+Chennai,Pallavaram,1451,3,3,10300000.0
+Delhi,Rohini,1155,2,2,9105000.0
+Chennai,Chromepet,893,2,2,7626000.0
+Mumbai,Worli,972,2,2,19406000.0
+Hyderabad,Kondapur,1706,4,4,13141000.0
+Hyderabad,Kukatpally,1060,2,2,6040000.0
+Bangalore,Whitefield,1212,3,3,16109000.0
+Chennai,Medavakkam,1582,3,2,13280000.0
+Delhi,Rohini,624,1,1,4819000.0
+Mumbai,Chembur,1028,2,2,15916000.0
+Mumbai,Borivali,1261,3,3,17094000.0
+Hyderabad,Miyapur,1192,2,2,5539000.0
+Mumbai,Borivali,1101,2,2,14563000.0
+Delhi,Rohini,1095,2,2,9159000.0
+Delhi,Uttam Nagar,686,1,1,3388000.0
+Hyderabad,Miyapur,892,2,2,5055000.0
+Bangalore,Electronic City,1784,3,3,16094000.0
+Hyderabad,Miyapur,1076,2,2,5667000.0
+Hyderabad,HITEC City,2138,4,4,21328000.0
+Chennai,OMR,1733,3,2,19117000.0
+Delhi,Dwarka,1475,3,3,13072000.0
+Mumbai,Andheri East,2571,4,4,56312000.0
+Hyderabad,Kukatpally,1634,3,3,10680000.0
+Delhi,Saket,1192,2,1,14669000.0
+Hyderabad,Miyapur,1231,3,3,7508000.0
+Chennai,OMR,1287,3,3,16033000.0
+Mumbai,Chembur,2797,5,4,54391000.0
+Delhi,Uttam Nagar,831,2,1,4515000.0
+Mumbai,Andheri East,1104,2,1,19320000.0
+Hyderabad,Gachibowli,1388,3,3,10887000.0
+Bangalore,Yelahanka,685,1,1,5273000.0
+Delhi,Greater Kailash,2025,4,4,34673000.0
+Bangalore,Sarjapur Road,1194,2,2,12622000.0
+Hyderabad,Gachibowli,2786,4,3,25019000.0
+Chennai,Chromepet,718,2,1,5166000.0
+Delhi,Greater Kailash,1497,3,3,22994000.0
+Hyderabad,Miyapur,774,2,2,4368000.0
+Delhi,Rohini,1070,2,2,7626000.0
+Chennai,Pallavaram,1890,4,4,14687000.0
+Bangalore,Hebbal,507,1,1,6439000.0
+Delhi,Saket,1650,3,2,26757000.0
+Chennai,Medavakkam,1297,3,3,12278000.0
+Hyderabad,HITEC City,1763,3,2,17475000.0
+Bangalore,Whitefield,461,1,1,5987000.0
+Bangalore,Hebbal,665,1,1,10427000.0
+Chennai,Pallavaram,797,2,2,5545000.0
+Hyderabad,HITEC City,1805,4,4,17688000.0
+Chennai,Ambattur,1737,4,4,15825000.0
+Mumbai,Andheri East,1770,4,4,34384000.0
+Delhi,Dwarka,1173,3,3,10654000.0
+Delhi,Uttam Nagar,2503,4,4,16993000.0
+Mumbai,Chembur,2514,4,3,46033000.0
+Hyderabad,HITEC City,968,2,2,7557000.0
+Chennai,Medavakkam,2721,5,5,26587000.0
+Mumbai,Lower Parel,985,2,2,20435000.0
+Bangalore,Sarjapur Road,1338,3,3,15089000.0
+Delhi,Saket,593,1,1,6979000.0
+Hyderabad,Miyapur,1230,3,3,8009000.0
+Mumbai,Chembur,1328,3,2,21763000.0
+Bangalore,Electronic City,587,1,1,4682000.0
+Mumbai,Andheri East,1171,2,2,20176000.0
+Bangalore,Hebbal,2096,4,4,41891000.0
+Hyderabad,Kukatpally,462,1,1,2202000.0
+Mumbai,Worli,1495,3,3,35645000.0
+Chennai,Pallavaram,1285,3,3,8975000.0
+Chennai,Pallavaram,1562,3,3,14753000.0
+Mumbai,Andheri East,1604,4,4,30536000.0
+Chennai,Ambattur,1281,3,2,10789000.0

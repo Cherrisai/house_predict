@@ -2,15 +2,7 @@
 
 Real-time ML-based house price prediction across **5 major Indian cities** and **25 micro-markets**, built with scikit-learn / XGBoost and a professional Streamlit UI.
 
-## Cities & Micro-markets
-
-| City       | Areas                                                        | Avg ₹/sqft |
-|------------|--------------------------------------------------------------|------------|
-| Bangalore  | Whitefield, Sarjapur Road, Electronic City, Hebbal, Yelahanka | ₹11,000    |
-| Chennai    | OMR, Medavakkam, Ambattur, Chromepet, Pallavaram             | ₹9,300     |
-| Mumbai     | Andheri East, Borivali, Chembur, Worli, Lower Parel          | ₹12,000+   |
-| Hyderabad  | Gachibowli, Kondapur, Miyapur, Kukatpally, HITEC City        | ₹6,000     |
-| Delhi      | Dwarka, Rohini, Greater Kailash, Uttam Nagar, Saket          | ₹8,400     |
+huggingface deploy: https://huggingface.co/spaces/cherrisai/House_prediction
 
 ## Quick Start
 
@@ -18,13 +10,10 @@ Real-time ML-based house price prediction across **5 major Indian cities** and *
 # 1. Install dependencies
 pip install -r requirements.txt
 
-# 2. Generate dataset (3000 rows)
-python generate_data.py
-
-# 3. Train model (saves model.pkl)
+# 2.Train model (saves model.pkl)
 python train.py
 
-# 4. Launch app
+# 3. Launch app
 streamlit run app.py
 ```
 

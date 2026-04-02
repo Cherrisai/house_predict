@@ -31,7 +31,6 @@ streamlit run app.py
 ```
 ├── app.py             # Streamlit UI
 ├── train.py           # Model training (RF + XGB)
-├── generate_data.py   # Synthetic dataset generator
 ├── data.csv           # 3000-row training dataset
 ├── model.pkl          # Trained pipeline (preprocessor + model)
 ├── requirements.txt   # Dependencies
